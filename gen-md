@@ -1,0 +1,2 @@
+#! /bin/env bash
+MORE_MARKDOWN=more-markdown.raku RAKUDO_RAKUAST=1 raku --rakudoc=Markdown articles-of-association.rakudoc > articles-of-association.md

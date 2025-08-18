@@ -1,0 +1,70 @@
+=begin rakudoc :!toc :!index
+
+=TITLE Articles of Association
+
+=for AUTHORS :hidden
+Elizabeth Mattijsen
+Richard Hainsworth
+
+=for VERSION :hidden
+v0.1.0
+
+=config numitem :prefix<Article> :continued
+=alias RP Raku Programming Language
+=alias FDN Raku Foundation
+=alias RevConst 20% (twenty percent)
+=alias RunMonth three
+
+=head Name, Registration, and Business Language
+
+=numitem Name
+
+The foundation bears the name of: The A<FDN>.
+
+=numitem Registration
+
+The foundation has its registered office in Echt.
+
+=numitem Business Language
+
+All documents related to the A<FDN> shall be in English, except for those required by
+the laws of the Netherlands and those required for companies registered in the Netherlands
+which shall be in the language or languages required by the laws of the Netherlands or
+the regulations covering registration in the Netherlands.
+
+=head Object
+=numitem
+
+The object of the A<FDN> is:
+=item to promote and support the use of A<RP> globally,
+=item to be an authority to determine the quality of software written in A<RP>,
+=item to organise conferences, seminars, workshops and other events to further A<FDN>'s other objectives,
+=item to coordinate with educational institutions to further A<FDN>'s other oobjectives,
+=item to provide consulting and managerial support concerning A<RP> to individuals and other organisations,
+=item to facilitate and manage projects that develop softare written in or supporting A<RP>,
+=item to encourage other individuals and organisations, including for-profit companies to undertake projects that create or use software written in whole in part in A<RP>,
+=item to do everything that is directly or indirectly connected with or can be beneficial to the above, all of this in the widest sense of the word.
+
+=head Revenue and Revenue constraints
+=numitem Revenues
+
+The A<FDN> gets its revenue from:
+=item subsidies and donations,
+=item gifts, testamentary dispositions, grants and specific legacies,
+=item membership fees,
+=item consulting and management fees paid by third parties,
+=item the profit to be made by the operation of the enterprise,
+=item all other acquisitions and revenues.
+
+=numitem Revenue contraints
+
+The A<FDN> may not generate more than A<RevConst> of its monthly revenue averaged over the preceeding A<RunMonth> months from any single organisation, however the revenue is generated.
+
+=numitem
+
+In the event of an organisation financing a project managed by the A<FDN> with the financing paid in tranches, only the amount allocated to the A<FDN> for management or consulting fees calculated on a monthly accrual basis shall be included in the average calculated to be compliant with the Revenue constraint.
+
+=head Governance
+
+
+=end rakudoc
