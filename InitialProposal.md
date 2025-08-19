@@ -103,7 +103,7 @@ The board shall be authorized to amend or abolish the regulations at all times.
 
 Article 11.1 shall apply to the adoption, amendment and abolition of the regulations.
 
-##  Amendment to the articles of association
+## Amendment to the articles of association
 ### Article 11
 The board is authorized to amend these articles of association.  The resolution thereto shall be adopted unanimously in a meeting where all board members are present or represented.
 

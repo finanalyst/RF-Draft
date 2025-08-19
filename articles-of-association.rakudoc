@@ -11,9 +11,12 @@ v0.1.0
 
 =config numitem :prefix<Article> :continued
 =alias RP Raku Programming Language
-=alias FDN Raku Foundation
+=alias FDN Raku A<FDN>
 =alias RevConst 20% (twenty percent)
 =alias RunMonth three
+=alias Exec Executive Board
+=alias Super Supervisory Board
+=alias Mem the Foundation's Membership
 
 =head Name, Registration, and Business Language
 
@@ -65,6 +68,144 @@ The A<FDN> gets its revenue from:
 
 
 =head Governance
+=numitem Overview
 
+The A<FDN> shall be governed by three governing bodies, namely
+=item its A<Exec>,
+=item its A<Super>,
+=item and its A<Mem>
+
+The A<FDN>, its governing bodies, the membership of the governing bodies as individuals, and its agents shall operate according to these Articles of Association, and to the A<FDN>'s Regulations.
+
+=numitem Regulations
+
+A list of the A<FDN>'s Regulations is appended to these Articles of Association.
+
+The A<Exec> shall implement and enforce the Regulations, except where the enforcement of a Regulation breaches the laws of a country in which the effect of enforcement occurs.
+
+=numitem Decision types
+
+Actions affecting the existence, operation, or reputation of A<FDN> in any way to be undertaken, executed, set in motion by any officers of the A<FDN> or any of its agents shall be assigned to one of the following categories
+=item Operational
+=item Important
+=item Critical
+
+=numitem Determination of the type of an action
+
+The category of an action may be specified in these Articles of Association, or in the Regulations, or by a majority of the A<Exec>.
+
+=numitem Consent for actions
+
+Before an action as defined in Article 'Decision types' is undertaken, executed or set in motion, the action must be formulated into a proposal that is voted on by the A<FDN>'s executive bodies. The proposal is deemed to have received consent if a majority of a quorum of the voters are in favour of the proposal.
+
+=numitem Consent for Operational action
+
+It is sufficient for a majority of the A<Exec>'s members with a quorum of three to vote in favour of a proposal for an Operation action to receive consent.
+
+=numitem Consent for an Important action
+
+It is sufficient for a majority of the A<Exec>'s members with a quorum of three, and a majority of the A<Super> with a quorum of twenty-five percent of its living members to vote in favour of a proposal for an Important action to receive consent.
+
+=numitem Consent for an Critical action
+
+It is sufficient for a majority of the A<Exec>'s members with a quorum of three, and a majority of the A<Super> with a quorum of forty percent of its living members, and a majority of the A<Mem> with a quorum of twenty percent of the total membership to vote in favour of a proposal for a Critical action to receive consent.
+
+=head The A<Exec>
+
+=numitem Number of members
+
+The A<Exec> shall consist of an uneven number of members, as defined in the Regulations, provided that the number is no less than three and no more than 19.
+
+=numitem Process of election
+
+The A<Exec> shall be elected each year by the A<Mem> as follows:
+=item The A<Exec> shall draw up a list of the current membership with the right to vote; and shall determine the deadline for the ballots to be received, which should be a working day in Echt, on or close to the 21st of March.
+=item A communication shall be sent as defined by the Regulations to all the members of the A<Mem> no later than the last working day in Echt before the 21st of January requesting each member to become a Candidate for election to the A<Exec>. No nomination process or qualification is needed, other than a willingness to serve as a member of the A<Exec> for a year.
+=item A communication shall be sent as defined by the Regulations to all the members of the A<Mem> no later than the last working day before 21st February, informing the membership of the upcoming election, the method of the election, the deadline for the receipt of ballots, and a list of the Candidates for election to the A<Mem>.
+=item Each member of the A<Mem> is encouraged to send in a ballot using the process described in the Regulations.
+=item At the close of business in Echt on the day of the deadline, the votes shall be counted as defined below, and the Candidates receiving the most votes, as defined below, shall be considered the members of the A<Exec>, starting from 21 April.
+=item The members of the A<Exec> shall serve from 21 April in one year to 20 April in the next year.
+
+=numitem Counting of votes
+
+All of the ballots from members received on or before the day of the deadline shall checked for valid votes as follows:
+=item Each ballot sent in by a member shall consist of the number of names selected from the list of Candidates as the Regulations specify for the number of A<Exec> members.
+=item In the event of a duplicated Candidate name, only one shall be considered valid, and the duplicates shall be invalidated.
+=item In the event of name recorded in a ballot not on the list of Candidates, that name shall be invalidated.
+=item In the event of more than the specifed number of valid Candidate names, the first names to the specified number shall be considered valid and the remainder shall be invalidated.
+
+The valid votes cast for each Candidate shall be counted, with each valid vote considered equal without reference to its position on the list.
+
+=numitem Determination of A<Exec> members
+
+The Candidates upto the number of members of the A<Exec> with the most votes shall be declared members of the A<Exec> from the following 21st April.
+
+In the event that more Candidates have the top positions than there are A<Exec> members specified in the Regulations because two or more Candidates have the same number of votes, then one or more Candidates shall be drawn at random from the group of Candiates sharing the same number of votes until the number of A<Exec> members as specified in the Regulations is chosen.
+
+=numitem Vacancy on A<Exec>
+
+The number of members of the A<Exec> may fall beneath the number defined in the Regulations because a member of the A<Exec>
+=item dies or is rendered incapable by disease or accident;
+=item resigns in writing (retires);
+=item loses the right to dispose of their property;
+=item is removed by the court, pursuant to Article 2.298 of the Netherlands Civil Code.
+
+A member of the A<Exec> may be removed as a result of an Important Action.
+
+=numitem A<Exec> remuneration
+
+The members of the A<Exec> shall not be paid a remuneration for their activities.  However, in so far as the assets of the A<FDN> allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties.
+
+=head A<Super>
+=numitem To be added
+
+=head A<Mem>
+=numitem To be added
+
+=head Change of, Addition to or Amendment of The Articles of Association
+=numitem The Articles of Association may be changed, added to or ammended as a result of an Critical Action
+=numitem The proposal for such an action may be made by any member of the A<FDN>
+
+=head Change of, Addition to or Amendment of Regulations
+=numitem The Regulations may be changed, added to or ammended as a result of an Important Action
+=numitem The proposal for such an action may be made by any member of the A<FDN>
+=numitem The A<Exec> is obliged to file a copy of the deed of amendment, as well as the amended articles of association at the office of the Trade Register held by the authorized Chamber of Commerce and Industry appointed by law.
+
+
+=head Financial year and annual report and accounts
+=numitem Period
+
+The financial year of the A<FDN> is the same as the calendar year.
+
+=numitem Records
+
+The A<Exec> is obliged to keep records of the financial condition of the A<FDN>, in accordance with the requirements arising from these activities, in such a manner and to keep the books, documents, correspondence, computer files and other data carriers pertaining thereto in such a manner that the assets, the rights and obligations of the A<FDN> can be inspected at all times.
+
+=numitem Financial reports
+
+Without prejudice to what is provided otherwise by law, the A<Exec> is obliged to prepare and put on paper the balance sheet and the statement of income and expenditure of the A<FDN> each year within six months after the end of the financial year.  In the event that the A<FDN> maintains one or more enterprises, which, pursuant to the law, have to be listed in the Trade Register of the Chamber of Commerce, the net turnover and profit or loss of each enterprise shall be stated in the statement of income and expenditure.
+
+=numitem Archiving
+
+The A<Exec> is obliged to keep the books, documents, correspondence, computer files and other data carriers referred to in Article 'Financial reports' and Article 'Records' for seven years.
+
+The data stored on a data carrier, with the exception of the balance sheet and statement of income and expenditure that have been put on paper, can be transferred to and kept on another data carrier, provided that the transfer takes place with correct and complete representation of the data and that these data will be available throughout the time they have to be retained and will always be legible.
+
+=head Dissolution and Liquidation
+=numitem
+
+The A<FDN> shall be dissolved as the result of a Critical Action
+
+After its dissolution the A<FDN> shall continue to exist in so far as is necessary for the liquidation of its assets.
+
+The liquidation shall be carried out by the A<Exec>.
+
+The A<Exec> shall see to it that the dissolution of the A<FDN> be listed in the Trade Register of the Chamber of Commerce.
+
+During the liquidation, the provisions of these articles of association shall remain in force as much as possible.
+
+Any liquidation surplus of the dissolved A<FDN> shall as much as possible be spent in accordance with the object of the A<FDN>.  Resolutions thereto shall be adopted unanimously.
+
+At the end of the liquidation the books, accounts, documents and other data carriers of the dissolved A<FDN> shall be in the custody of the liquidator appointed by the A<Exec> for seven years, thereby ensuring safety, legibility and usability.
 
 =end rakudoc
