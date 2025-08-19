@@ -39,13 +39,13 @@ The object of the A<FDN> is:
 =item to promote and support the use of A<RP> globally,
 =item to be an authority to determine the quality of software written in A<RP>,
 =item to organise conferences, seminars, workshops and other events to further A<FDN>'s other objectives,
-=item to coordinate with educational institutions to further A<FDN>'s other oobjectives,
+=item to coordinate with educational institutions to further A<FDN>'s other objectives,
 =item to provide consulting and managerial support concerning A<RP> to individuals and other organisations,
-=item to facilitate and manage projects that develop softare written in or supporting A<RP>,
+=item to facilitate and manage projects that develop software written in or supporting A<RP>,
 =item to encourage other individuals and organisations, including for-profit companies to undertake projects that create or use software written in whole in part in A<RP>,
 =item to do everything that is directly or indirectly connected with or can be beneficial to the above, all of this in the widest sense of the word.
 
-=head Revenue and Revenue constraints
+=head Finance
 =numitem Revenues
 
 The A<FDN> gets its revenue from:
@@ -53,16 +53,16 @@ The A<FDN> gets its revenue from:
 =item gifts, testamentary dispositions, grants and specific legacies,
 =item membership fees,
 =item consulting and management fees paid by third parties,
-=item the profit to be made by the operation of the enterprise,
+=item profit from the operation of the A<FDN>,
 =item all other acquisitions and revenues.
 
-=numitem Revenue contraints
+=numitem Reserves and Operating Budget
+=item The A<FDN> shall create an operating budget from which its monthly expenses will be paid, on an accrual basis.
+=item The A<FDN> shall create unrestricted reserves, into which revenues from for-profit organisations will be paid.
+=item The A<FDN> shall create restricted reserves, into which will be paid grants for projects, donations, subsidies, gifts, grants and legacies and the like, which may have covenants or conditions about the use to which the monies may be expended.
+=item The operating budget may be formed from current revenues from membership fees, consulting and management fees, donations from individuals, interest paid on reserves and investments, and profits from the operation of the A<FDN>.
+=item The operating budget may be augmented by transfers from its unrestricted reserves with the provision that no more than A<RevConst> of the monthly operating budget averaged over the preceeding A<RunMonth> months may come from an unrestricted reserve formed from revenues originating from a single for-profit organisation.
 
-The A<FDN> may not generate more than A<RevConst> of its monthly revenue averaged over the preceeding A<RunMonth> months from any single organisation, however the revenue is generated.
-
-=numitem
-
-In the event of an organisation financing a project managed by the A<FDN> with the financing paid in tranches, only the amount allocated to the A<FDN> for management or consulting fees calculated on a monthly accrual basis shall be included in the average calculated to be compliant with the Revenue constraint.
 
 =head Governance
 

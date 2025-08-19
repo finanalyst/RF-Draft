@@ -1,16 +1,6 @@
 
 # Articles of Association
 
-----
-
-## Table of Contents
-
-<a href="#Name,_Registration,_and_Business_Language">Name, Registration, and Business Language</a>   
-<a href="#Object">Object</a>   
-<a href="#Revenue_and_Revenue_constraints">Revenue and Revenue constraints</a>   
-<a href="#Governance">Governance</a>   
-
-
 
 <div id="Name, Registration, and Business Language"></div><div id="Name,_Registration,_and_Business_Language"></div>
 
@@ -47,15 +37,14 @@
 &nbsp;&nbsp;• <span class="para" id="057a155"></span>to promote and support the use of Raku Programming Language globally,  
 &nbsp;&nbsp;• <span class="para" id="f65319a"></span>to be an authority to determine the quality of software written in Raku Programming Language,  
 &nbsp;&nbsp;• <span class="para" id="adacc8d"></span>to organise conferences, seminars, workshops and other events to further Raku Foundation's other objectives,  
-&nbsp;&nbsp;• <span class="para" id="2adb78e"></span>to coordinate with educational institutions to further Raku Foundation's other oobjectives,  
+&nbsp;&nbsp;• <span class="para" id="a216f06"></span>to coordinate with educational institutions to further Raku Foundation's other objectives,  
 &nbsp;&nbsp;• <span class="para" id="3abe5de"></span>to provide consulting and managerial support concerning Raku Programming Language to individuals and other organisations,  
-&nbsp;&nbsp;• <span class="para" id="d6a98f1"></span>to facilitate and manage projects that develop softare written in or supporting Raku Programming Language,  
+&nbsp;&nbsp;• <span class="para" id="ae5d83e"></span>to facilitate and manage projects that develop software written in or supporting Raku Programming Language,  
 &nbsp;&nbsp;• <span class="para" id="82dba06"></span>to encourage other individuals and organisations, including for-profit companies to undertake projects that create or use software written in whole in part in Raku Programming Language,  
 &nbsp;&nbsp;• to do everything that is directly or indirectly connected with or can be beneficial to the above, all of this in the widest sense of the word.  
+<div id="Finance"></div>
 
-<div id="Revenue and Revenue constraints"></div><div id="Revenue_and_Revenue_constraints"></div>
-
-## Revenue and Revenue constraints
+## Finance
 
 
 **Article 5.** Revenues  
@@ -68,20 +57,19 @@
 &nbsp;&nbsp;• gifts, testamentary dispositions, grants and specific legacies,  
 &nbsp;&nbsp;• membership fees,  
 &nbsp;&nbsp;• consulting and management fees paid by third parties,  
-&nbsp;&nbsp;• the profit to be made by the operation of the enterprise,  
+&nbsp;&nbsp;• <span class="para" id="7ae1e1e"></span>profit from the operation of the Raku Foundation,  
 &nbsp;&nbsp;• all other acquisitions and revenues.  
 
 
-**Article 6.** Revenue contraints  
-
-<span class="para" id="4f1517f"></span>The Raku Foundation may not generate more than 20% (twenty percent) of its monthly revenue averaged over the preceeding three months from any single organisation, however the revenue is generated. 
+**Article 6.** Reserves and Operating Budget  
 
 
 
-**Article 7.**   
-
-<span class="para" id="4b737a2"></span>In the event of an organisation financing a project managed by the Raku Foundation with the financing paid in tranches, only the amount allocated to the Raku Foundation for management or consulting fees calculated on a monthly accrual basis shall be included in the average calculated to be compliant with the Revenue constraint. 
-
+&nbsp;&nbsp;• <span class="para" id="539b7e2"></span>The Raku Foundation shall create an operating budget from which its monthly expenses will be paid, on an accrual basis.  
+&nbsp;&nbsp;• <span class="para" id="d60b31c"></span>The Raku Foundation shall create unrestricted reserves, into which revenues from for-profit organisations will be paid.  
+&nbsp;&nbsp;• <span class="para" id="3b6c1dd"></span>The Raku Foundation shall create restricted reserves, into which will be paid grants for projects, donations, subsidies, gifts, grants and legacies and the like, which may have covenants or conditions about the use to which the monies may be expended.  
+&nbsp;&nbsp;• <span class="para" id="a7acef7"></span>The operating budget may be formed from current revenues from membership fees, consulting and management fees, donations from individuals, interest paid on reserves and investments, and profits from the operation of the Raku Foundation.  
+&nbsp;&nbsp;• <span class="para" id="0168e12"></span>The operating budget may be augmented by transfers from its unrestricted reserves with the provision that no more than 20% (twenty percent) of the monthly operating budget averaged over the preceeding three months may come from an unrestricted reserve formed from revenues originating from a single for-profit organisation.  
 <div id="Governance"></div>
 
 ## Governance
@@ -92,8 +80,8 @@
 
 ----
 
-Rendered from ./articles-of-association.rakudoc at 15:28 UTC on 2025-08-18
+Rendered from ./articles-of-association.rakudoc at 14:41 UTC on 2025-08-19
 
-Source last modified at 15:20 UTC on 2025-08-18
+Source last modified at 14:41 UTC on 2025-08-19
 
 
