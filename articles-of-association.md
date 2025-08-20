@@ -75,13 +75,229 @@
 ## Governance
 
 
+**Article 7.** Overview  
+
+<span class="para" id="91d5667"></span>The Raku Foundation shall be governed by three governing bodies, namely 
+
+
+
+&nbsp;&nbsp;• <span class="para" id="fb90308"></span>its Executive Board,  
+&nbsp;&nbsp;• <span class="para" id="71ec3e9"></span>its Supervisory Board,  
+&nbsp;&nbsp;• <span class="para" id="ce763a5"></span>and its the Foundation's Membership  
+<span class="para" id="024e13b"></span>The Raku Foundation, its governing bodies, the membership of the governing bodies as individuals, and its agents shall operate according to these Articles of Association, and to the Raku Foundation's Regulations. 
+
+
+
+**Article 8.** Regulations  
+
+<span class="para" id="b588859"></span>A list of the Raku Foundation's Regulations is appended to these Articles of Association. 
+
+<span class="para" id="c9d7d9e"></span>The Executive Board shall implement and enforce the Regulations, except where the enforcement of a Regulation breaches the laws of a country in which the effect of enforcement occurs. 
+
+
+
+**Article 9.** Decision types  
+
+<span class="para" id="412362a"></span>Actions affecting the existence, operation, or reputation of Raku Foundation in any way to be undertaken, executed, set in motion by any officers of the Raku Foundation or any of its agents shall be assigned to one of the following categories 
+
+
+
+&nbsp;&nbsp;• Operational  
+&nbsp;&nbsp;• Important  
+&nbsp;&nbsp;• Critical  
+
+
+**Article 10.** Determination of the type of an action  
+
+<span class="para" id="015ae8f"></span>The category of an action may be specified in these Articles of Association, or in the Regulations, or by a majority of the Executive Board. 
+
+
+
+**Article 11.** Consent for actions  
+
+<span class="para" id="844cb27"></span>Before an action as defined in Article 'Decision types' is undertaken, executed or set in motion, the action must be formulated into a proposal that is voted on by the Raku Foundation's executive bodies. The proposal is deemed to have received consent if a majority of a quorum of the voters are in favour of the proposal. 
+
+
+
+**Article 12.** Consent for Operational action  
+
+<span class="para" id="c9fbeb9"></span>It is sufficient for a majority of the Executive Board's members with a quorum of three to vote in favour of a proposal for an Operation action to receive consent. 
+
+
+
+**Article 13.** Consent for an Important action  
+
+<span class="para" id="c57babb"></span>It is sufficient for a majority of the Executive Board's members with a quorum of three, and a majority of the Supervisory Board with a quorum of twenty-five percent of its living members to vote in favour of a proposal for an Important action to receive consent. 
+
+
+
+**Article 14.** Consent for an Critical action  
+
+<span class="para" id="a425a9e"></span>It is sufficient for a majority of the Executive Board's members with a quorum of three, and a majority of the Supervisory Board with a quorum of forty percent of its living members, and a majority of the the Foundation's Membership with a quorum of twenty percent of the total membership to vote in favour of a proposal for a Critical action to receive consent. 
+
+
+<div id="The Executive Board"></div><div id="The_Exec"></div>
+
+## The Executive Board
+
+
+**Article 15.** Number of members  
+
+<span class="para" id="b95c103"></span>The Executive Board shall consist of an uneven number of members, as defined in the Regulations, provided that the number is no less than three and no more than 19. 
+
+
+
+**Article 16.** Process of election  
+
+<span class="para" id="e1a53cf"></span>The Executive Board shall be elected each year by the the Foundation's Membership as follows: 
+
+
+
+&nbsp;&nbsp;• <span class="para" id="05a8839"></span>The Executive Board shall draw up a list of the current membership with the right to vote; and shall determine the deadline for the ballots to be received, which should be a working day in Echt, on or close to the 21st of March.  
+&nbsp;&nbsp;• <span class="para" id="fe34f8c"></span>A communication shall be sent as defined by the Regulations to all the members of the the Foundation's Membership no later than the last working day in Echt before the 21st of January requesting each member to become a Candidate for election to the Executive Board. No nomination process or qualification is needed, other than a willingness to serve as a member of the Executive Board for a year.  
+&nbsp;&nbsp;• <span class="para" id="a042ddf"></span>A communication shall be sent as defined by the Regulations to all the members of the the Foundation's Membership no later than the last working day before 21st February, informing the membership of the upcoming election, the method of the election, the deadline for the receipt of ballots, and a list of the Candidates for election to the the Foundation's Membership.  
+&nbsp;&nbsp;• <span class="para" id="12c0068"></span>Each member of the the Foundation's Membership is encouraged to send in a ballot using the process described in the Regulations.  
+&nbsp;&nbsp;• <span class="para" id="d25a8bd"></span>At the close of business in Echt on the day of the deadline, the votes shall be counted as defined below, and the Candidates receiving the most votes, as defined below, shall be considered the members of the Executive Board, starting from 21 April.  
+&nbsp;&nbsp;• <span class="para" id="69f398f"></span>The members of the Executive Board shall serve from 21 April in one year to 20 April in the next year.  
+
+
+**Article 17.** Counting of votes  
+
+<span class="para" id="0dc9aa0"></span>All of the ballots from members received on or before the day of the deadline shall checked for valid votes as follows: 
+
+
+
+&nbsp;&nbsp;• <span class="para" id="e493ab8"></span>Each ballot sent in by a member shall consist of the number of names selected from the list of Candidates as the Regulations specify for the number of Executive Board members.  
+&nbsp;&nbsp;• In the event of a duplicated Candidate name, only one shall be considered valid, and the duplicates shall be invalidated.  
+&nbsp;&nbsp;• In the event of name recorded in a ballot not on the list of Candidates, that name shall be invalidated.  
+&nbsp;&nbsp;• In the event of more than the specifed number of valid Candidate names, the first names to the specified number shall be considered valid and the remainder shall be invalidated.  
+<span class="para" id="ff52880"></span>The valid votes cast for each Candidate shall be counted, with each valid vote considered equal without reference to its position on the list. 
+
+
+
+**Article 18.** <span class="para" id="8f77441"></span>Determination of Executive Board members  
+
+<span class="para" id="887bd26"></span>The Candidates upto the number of members of the Executive Board with the most votes shall be declared members of the Executive Board from the following 21st April. 
+
+<span class="para" id="42e4050"></span>In the event that more Candidates have the top positions than there are Executive Board members specified in the Regulations because two or more Candidates have the same number of votes, then one or more Candidates shall be drawn at random from the group of Candiates sharing the same number of votes until the number of Executive Board members as specified in the Regulations is chosen. 
+
+
+
+**Article 19.** <span class="para" id="58d9a0c"></span>Vacancy on Executive Board  
+
+<span class="para" id="1cc1169"></span>The number of members of the Executive Board may fall beneath the number defined in the Regulations because a member of the Executive Board 
+
+
+
+&nbsp;&nbsp;• dies or is rendered incapable by disease or accident;  
+&nbsp;&nbsp;• resigns in writing (retires);  
+&nbsp;&nbsp;• loses the right to dispose of their property;  
+&nbsp;&nbsp;• is removed by the court, pursuant to Article 2.298 of the Netherlands Civil Code.  
+<span class="para" id="77f190c"></span>A member of the Executive Board may be removed as a result of an Important Action. 
+
+
+
+**Article 20.** <span class="para" id="f0569de"></span>Executive Board remuneration  
+
+<span class="para" id="331cceb"></span>The members of the Executive Board shall not be paid a remuneration for their activities. However, in so far as the assets of the Raku Foundation allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties. 
+
+
+<div id="Supervisory Board"></div><div id="Super"></div>
+
+## Supervisory Board
+
+
+**Article 21.** To be added  
+
+
+<div id="the Foundation's Membership"></div><div id="Mem"></div>
+
+## the Foundation's Membership
+
+
+**Article 22.** To be added  
+
+
+<div id="Change of, Addition to or Amendment of The Articles of Association"></div><div id="Change_of,_Addition_to_or_Amendment_of_The_Articles_of_Association"></div>
+
+## Change of, Addition to or Amendment of The Articles of Association
+
+
+**Article 23.** The Articles of Association may be changed, added to or ammended as a result of an Critical Action  
+
+**Article 24.** <span class="para" id="6e14415"></span>The proposal for such an action may be made by any member of the Raku Foundation  
+
+
+<div id="Change of, Addition to or Amendment of Regulations"></div><div id="Change_of,_Addition_to_or_Amendment_of_Regulations"></div>
+
+## Change of, Addition to or Amendment of Regulations
+
+
+**Article 25.** The Regulations may be changed, added to or ammended as a result of an Important Action  
+
+**Article 26.** <span class="para" id="6e14415"></span>The proposal for such an action may be made by any member of the Raku Foundation  
+
+**Article 27.** <span class="para" id="566998a"></span>The Executive Board is obliged to file a copy of the deed of amendment, as well as the amended articles of association at the office of the Trade Register held by the authorized Chamber of Commerce and Industry appointed by law.  
+
+
+<div id="Financial year and annual report and accounts"></div><div id="Financial_year_and_annual_report_and_accounts"></div>
+
+## Financial year and annual report and accounts
+
+
+**Article 28.** Period  
+
+<span class="para" id="f5ad1e7"></span>The financial year of the Raku Foundation is the same as the calendar year. 
+
+
+
+**Article 29.** Records  
+
+<span class="para" id="1fc57c5"></span>The Executive Board is obliged to keep records of the financial condition of the Raku Foundation, in accordance with the requirements arising from these activities, in such a manner and to keep the books, documents, correspondence, computer files and other data carriers pertaining thereto in such a manner that the assets, the rights and obligations of the Raku Foundation can be inspected at all times. 
+
+
+
+**Article 30.** Financial reports  
+
+<span class="para" id="7ee98cf"></span>Without prejudice to what is provided otherwise by law, the Executive Board is obliged to prepare and put on paper the balance sheet and the statement of income and expenditure of the Raku Foundation each year within six months after the end of the financial year. In the event that the Raku Foundation maintains one or more enterprises, which, pursuant to the law, have to be listed in the Trade Register of the Chamber of Commerce, the net turnover and profit or loss of each enterprise shall be stated in the statement of income and expenditure. 
+
+
+
+**Article 31.** Archiving  
+
+<span class="para" id="ad54254"></span>The Executive Board is obliged to keep the books, documents, correspondence, computer files and other data carriers referred to in Article 'Financial reports' and Article 'Records' for seven years. 
+
+<span class="para" id="f3ba56e"></span>The data stored on a data carrier, with the exception of the balance sheet and statement of income and expenditure that have been put on paper, can be transferred to and kept on another data carrier, provided that the transfer takes place with correct and complete representation of the data and that these data will be available throughout the time they have to be retained and will always be legible. 
+
+
+<div id="Dissolution and Liquidation"></div><div id="Dissolution_and_Liquidation"></div>
+
+## Dissolution and Liquidation
+
+
+**Article 32.**   
+
+<span class="para" id="b2b7774"></span>The Raku Foundation shall be dissolved as the result of a Critical Action 
+
+<span class="para" id="98f3fcc"></span>After its dissolution the Raku Foundation shall continue to exist in so far as is necessary for the liquidation of its assets. 
+
+<span class="para" id="f0116ad"></span>The liquidation shall be carried out by the Executive Board. 
+
+<span class="para" id="ea39ab2"></span>The Executive Board shall see to it that the dissolution of the Raku Foundation be listed in the Trade Register of the Chamber of Commerce. 
+
+<span class="para" id="573b8d2"></span>During the liquidation, the provisions of these articles of association shall remain in force as much as possible. 
+
+<span class="para" id="fb6913c"></span>Any liquidation surplus of the dissolved Raku Foundation shall as much as possible be spent in accordance with the object of the Raku Foundation. Resolutions thereto shall be adopted unanimously. 
+
+<span class="para" id="e7ff59a"></span>At the end of the liquidation the books, accounts, documents and other data carriers of the dissolved Raku Foundation shall be in the custody of the liquidator appointed by the Executive Board for seven years, thereby ensuring safety, legibility and usability.
+
+
 
 ----
 
 ----
 
-Rendered from ./articles-of-association.rakudoc at 14:41 UTC on 2025-08-19
+Rendered from ./articles-of-association.rakudoc/articles-of-association at 09:50 UTC on 2025-08-20
 
-Source last modified at 14:41 UTC on 2025-08-19
-
+Source last modified at 09:49 UTC on 2025-08-20
 

@@ -11,7 +11,8 @@ v0.1.0
 
 =config numitem :prefix<Article> :continued
 =alias RP Raku Programming Language
-=alias FDN Raku A<FDN>
+=alias FDN Raku Foundation
+=alias RegPlace Echt
 =alias RevConst 20% (twenty percent)
 =alias RunMonth three
 =alias Exec Executive Board
@@ -26,7 +27,7 @@ The foundation bears the name of: The A<FDN>.
 
 =numitem Registration
 
-The foundation has its registered office in Echt.
+The foundation has its registered office in A<RegPlace>.
 
 =numitem Business Language
 
@@ -119,11 +120,11 @@ The A<Exec> shall consist of an uneven number of members, as defined in the Regu
 =numitem Process of election
 
 The A<Exec> shall be elected each year by the A<Mem> as follows:
-=item The A<Exec> shall draw up a list of the current membership with the right to vote; and shall determine the deadline for the ballots to be received, which should be a working day in Echt, on or close to the 21st of March.
-=item A communication shall be sent as defined by the Regulations to all the members of the A<Mem> no later than the last working day in Echt before the 21st of January requesting each member to become a Candidate for election to the A<Exec>. No nomination process or qualification is needed, other than a willingness to serve as a member of the A<Exec> for a year.
+=item The A<Exec> shall draw up a list of the current membership with the right to vote; and shall determine the deadline for the ballots to be received, which should be a working day in A<RegPlace>, on or close to the 21st of March.
+=item A communication shall be sent as defined by the Regulations to all the members of the A<Mem> no later than the last working day in A<RegPlace> before the 21st of January requesting each member to become a Candidate for election to the A<Exec>. No nomination process or qualification is needed, other than a willingness to serve as a member of the A<Exec> for a year.
 =item A communication shall be sent as defined by the Regulations to all the members of the A<Mem> no later than the last working day before 21st February, informing the membership of the upcoming election, the method of the election, the deadline for the receipt of ballots, and a list of the Candidates for election to the A<Mem>.
 =item Each member of the A<Mem> is encouraged to send in a ballot using the process described in the Regulations.
-=item At the close of business in Echt on the day of the deadline, the votes shall be counted as defined below, and the Candidates receiving the most votes, as defined below, shall be considered the members of the A<Exec>, starting from 21 April.
+=item At the close of business in A<RegPlace> on the day of the deadline, the votes shall be counted as defined below, and the Candidates receiving the most votes, as defined below, shall be considered the members of the A<Exec>, starting from 21 April.
 =item The members of the A<Exec> shall serve from 21 April in one year to 20 April in the next year.
 
 =numitem Counting of votes
