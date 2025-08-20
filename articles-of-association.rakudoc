@@ -6,8 +6,7 @@
 Elizabeth Mattijsen
 Richard Hainsworth
 
-=for VERSION :hidden
-v0.1.0
+=VERSION v0.1.0
 
 =config numitem :prefix<Article> :continued
 =alias RP Raku Programming Language
@@ -18,6 +17,7 @@ v0.1.0
 =alias Exec Executive Board
 =alias Super Supervisory Board
 =alias Mem the Foundation's Membership
+=alias ForceImp one third
 
 =head Name, Registration, and Business Language
 
@@ -31,10 +31,7 @@ The foundation has its registered office in A<RegPlace>.
 
 =numitem Business Language
 
-All documents related to the A<FDN> shall be in English, except for those required by
-the laws of the Netherlands and those required for companies registered in the Netherlands
-which shall be in the language or languages required by the laws of the Netherlands or
-the regulations covering registration in the Netherlands.
+All documents related to the A<FDN> shall be in English, except for those required by the laws of the Netherlands and those required for companies registered in the Netherlands which shall be in the language or languages required by the laws of the Netherlands or the regulations covering registration in the Netherlands.
 
 =head Object
 =numitem
@@ -117,6 +114,23 @@ It is sufficient for a majority of the A<Exec>'s members with a quorum of three,
 
 The A<Exec> shall consist of an uneven number of members, as defined in the Regulations, provided that the number is no less than three and no more than 19.
 
+=numitem Powers of the A<Exec>
+=item The A<Exec> is charged with the management of the A<FDN>, including management of its enterprise(s) and properties.
+=nested The next two items are copied from the initial proposal but IMHO they should be limited in some way. What if a rogue A<Exec> signs away all rights?
+=item The A<Exec> is authorized to resolve to enter into agreements and to acquire, alienate or encumber registered or other property.
+
+=item The A<Exec> is authorized to enter into agreements and contracts by which the A<FDN> commits itself as a surety or as joint and several debtor, warrants performance by a third party and provides security for a debt of a third party.
+
+=numitem Representation of the A<FND>
+
+The A<FDN> is solely represented by the A<Exec>.
+
+As a result of an Operation Action, the A<Exec> may delegate its representation to one or more members of the A<Exec> or A<Super>.
+
+=numitem Meetings, Minutes and Operations
+
+The meetings of the A<Exec>, the process of minuting proceedings, and the regular operation of the A<Exec> are set out in the Regulations.
+
 =numitem Process of election
 
 The A<Exec> shall be elected each year by the A<Mem> as follows:
@@ -145,33 +159,83 @@ In the event that more Candidates have the top positions than there are A<Exec> 
 
 =numitem Vacancy on A<Exec>
 
-The number of members of the A<Exec> may fall beneath the number defined in the Regulations because a member of the A<Exec>
+A member of the A<Exec> may cease to be a member because the individual
 =item dies or is rendered incapable by disease or accident;
 =item resigns in writing (retires);
 =item loses the right to dispose of their property;
 =item is removed by the court, pursuant to Article 2.298 of the Netherlands Civil Code.
 
-A member of the A<Exec> may be removed as a result of an Important Action.
+A member of the A<Exec> shall only be removed as a result of an Important Action.
+
+=numitem Filling of a Vacancy
+
+In the event of a vacancy on the A<Exec>, the vacancy shall be filled by the Candidate with the next most votes as a result of the election carried out for the current year.
+=item In the event of two or more Candidates having the next most votes, the Candidate to fill the vacancy shall be randomly chosen from among them.
 
 =numitem A<Exec> remuneration
 
 The members of the A<Exec> shall not be paid a remuneration for their activities.  However, in so far as the assets of the A<FDN> allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties.
 
 =head A<Super>
-=numitem To be added
+=numitem The A<Super> consists of members generally respected by the Raku community.
+=numitem A member of the A<Super> is appointed as a result of an Important Action.
+=numitem Vacancy on A<Super>
+
+A member of the A<Super> may cease to be a member because the individual
+=item dies or is rendered incapable by disease or accident;
+=item resigns in writing (retires);
+=item loses the right to dispose of their property;
+=item is removed by the court, pursuant to Article 2.298 of the Netherlands Civil Code.
+
+A member of the A<Super> shall only be removed as a result of an Important Action.
+=numitem A<Super> remuneration
+
+The members of the A<Super> shall not be paid a remuneration for their activities.  However, in so far as the assets of the A<FDN> allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties.
+=numitem Powers of the A<Super> and its members
+
+The A<Super> exists to guide and monitor the A<Exec>. All members of the A<Super> may vote on Important and Critical Actions. Each member has one vote on any single Action.
+
+When A<Op2Imp> or more members of the A<Super> jointly write to the A<Exec>, they may require that an Ordinary Action of the A<Exec> already taken or proposed to be taken be converted into an Important Action. The A<Exec> is required then to postpone the operation or execution of the Ordinary Action and to obtain the consent required for an Important Action. If the consent is not obtained, then the Action must be modified and consent requested as an Important Action.
 
 =head A<Mem>
-=numitem To be added
+=numitem Eligibility for membership
+
+Only physical individuals may become members of the A<FDN>.
+
+=numitem Membership fees
+
+Membership fees shall be set in the Regulations and may discounted or waived by the A<Exec> as its discretion for good reason, such as because the member is a student, has no disposable income, is prolific contributor to the Raku core or Raku modules, provided that the reason for the waiver or discount is made known to the membership.
+
+=numitem Fees are donations
+
+Membership fees are donations to the A<FDN> and once paid may not be refunded.
+
+=numitem Membership rights
+
+A member has the right to participate in all elections and to vote when consent is being sought for Important and Critial Actions. Each member has one ballot in each election. Once a ballot is cast, it cannot be changed unless a process for doing so is set out in the Regulations.
+
+=numitem Membership duties
+
+Each member is expected to adhere to the Code of Conduct set out in the Regulations.
+
+=numitem Cessation of membership
+
+An individual ceases to be a member if the individual
+=item dies or is rendered incapable by disease or accident;
+=item resigns in writing (retires);
+=item loses the right to dispose of their property;
+=item is expelled for failing to abide by the Code of Conduct as set out in the Regulations, following the expulsion process set out in the Regulations.
+
+In the event of an individual ceasing to be a member, the membership fees are not reimbursed.
 
 =head Change of, Addition to or Amendment of The Articles of Association
-=numitem The Articles of Association may be changed, added to or ammended as a result of an Critical Action
+=numitem The Articles of Association shall only be changed, added to or ammended as a result of an Critical Action
 =numitem The proposal for such an action may be made by any member of the A<FDN>
 
 =head Change of, Addition to or Amendment of Regulations
-=numitem The Regulations may be changed, added to or ammended as a result of an Important Action
+=numitem The Regulations shall only be changed, added to or ammended as a result of an Important Action
 =numitem The proposal for such an action may be made by any member of the A<FDN>
 =numitem The A<Exec> is obliged to file a copy of the deed of amendment, as well as the amended articles of association at the office of the Trade Register held by the authorized Chamber of Commerce and Industry appointed by law.
-
 
 =head Financial year and annual report and accounts
 =numitem Period
@@ -195,7 +259,7 @@ The data stored on a data carrier, with the exception of the balance sheet and s
 =head Dissolution and Liquidation
 =numitem
 
-The A<FDN> shall be dissolved as the result of a Critical Action
+The A<FDN> shall only be dissolved as the result of a Critical Action
 
 After its dissolution the A<FDN> shall continue to exist in so far as is necessary for the liquidation of its assets.
 
