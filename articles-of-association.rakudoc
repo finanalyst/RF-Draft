@@ -6,7 +6,7 @@
 Elizabeth Mattijsen
 Richard Hainsworth
 
-=VERSION v0.1.1
+=VERSION v0.1.2
 
 =config numitem :prefix<Article> :continued
 =alias RP Raku Programming Language
@@ -101,7 +101,7 @@ Before an action is undertaken, executed or set in motion, the action must be fo
 
 The type of action shall be determined in accordance with these Articles of Association or the Regulations.
 
-The proposal is send according to the process given in the Regulations to the governing body or bodies, with a request for consent or dissapproval to be returned to the A<Exec> within a reasonable time, as set forth in the Regulations.
+The proposal is sent according to the process given in the Regulations to the governing body or bodies, with a request for consent or dissapproval to be returned to the A<Exec> within a reasonable time, as set forth in the Regulations.
 
 =numitem Consent for Operational action
 
@@ -193,7 +193,7 @@ Officers only have such powers as set out in these Articles of Association or in
 
 =numitem Term
 
-An individual is elected to the A<Exec> for one year, after which the individual ceases to be a member of the A<Exec>, unless the individual is reelected.
+An individual is elected to the A<Exec> for one year, after which the individual ceases to be a member of the A<Exec>, unless the individual is re-elected.
 
 =numitem Cessation of membership of A<Exec>
 
@@ -217,11 +217,19 @@ The members of the A<Exec> shall not be paid a remuneration for their activities
 =head A<Super>
 =numitem The A<Super> consists of members generally respected by the Raku community.
 =numitem A member of the A<Super> is appointed as a result of an Important Action.
-=numitem Cessation and remuneration of membership on A<Super>
+=numitem Cessation of membership on A<Super>
 
-The text for the cessation of a member of the A<Super> is the same for the cessation of a member of the A<Exec>.
+A member of the A<Super> may cease to be a member because the individual
+=item dies or is rendered incapable by disease or accident;
+=item resigns in writing (retires);
+=item loses the right to dispose of their property;
+=item is removed by the court, pursuant to Article 2.298 of the Netherlands Civil Code.
 
-The text for the remuneration of a member of the A<Super> is the same for the remuneration of a member of the A<Exec>.
+A member of the A<Super> shall only be removed as a result of an Important Action.
+
+=numitem A<Super> remuneration
+
+The members of the A<Super> shall not be paid a remuneration for their activities.  However, in so far as the assets of the A<FDN> allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties.
 
 =numitem Powers of the A<Super> and its members
 
@@ -250,7 +258,7 @@ A member has the right to participate in all elections and to vote when consent 
 
 Each member is expected to adhere to the Code of Conduct, which shall be set out in the Regulations.
 
-Each members shall provide the minimal personal, descriptive and contact information needed to maintain a Membership list.
+Each member shall provide the minimal personal, descriptive and contact information as set out in the Regulations in order to maintain a membership list.
 
 =numitem Cessation of membership
 
@@ -264,7 +272,7 @@ In the event of an individual ceasing to be a member, the membership fees are no
 
 =numitem Membership list
 
-The A<Exec> shall maintain an uptodate list of the A<Mem>, together with personal, descriptive and contact information as set out in the Regulations.
+The A<Exec> shall maintain an up to date list of the A<Mem>, together with personal, descriptive and contact information as set out in the Regulations.
 
 The information shall be kept in accordance with the privacy laws of the Netherlands.
 
