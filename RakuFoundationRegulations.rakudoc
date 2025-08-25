@@ -21,12 +21,14 @@ Richard Hainsworth
 
 =head Overview
 
-These Regulations are intended to regulate the activities of the governing bodies of the A<FDN> and its members. The A<Mem> is global and so members reside in and are governed by the laws of many countries.
+These Regulations are intended to regulate the activities of the governing bodies of the A<FDN> and its members.
+
+The A<Mem> is global and so members reside in and are governed by the laws of many countries (extant law).
 =numitem Extant law
 
-No part of these Regulations shall be interpreted to imply, facilitate, or encourage a member of the A<Mem> to break the law of the country in which they reside.
-
 Where these Regulations cover matters already governed by extant law, the provisions of extant law shall take priority.
+
+No part of these Regulations shall be interpreted to imply, facilitate, or encourage a member of the A<Mem> to break the law of the country in which they reside.
 
 =head The A<Exec>
 =numitem Number of members
@@ -45,13 +47,22 @@ The A<Exec> shall elect the following officers:
 
 The Chairperson shall order the discussion, ensuring that each member of the A<Exec> is given a reasonable chance to voice an opinion on each matter in the discussion, whilst also ensuring that no single member dominates the discussion or attempts to force a point of view on the other members.
 
-When a discussion has reached a conclusion, the Chairperson shall formulate the consensus and ask the A<Exec> to vote on the formulation.
+When a discussion has reached a conclusion, the Chairperson shall formulate the consensus and ask the A<Exec> to vote on the formulation, which is then recorded in the minutes of the meeting.
+
+The Chairperson does not have a casting vote. If during a quorate meeting the vote is tied on any matter, the topic is postponed to the next meeting.
 
 Outside of an A<Exec> meeting the Chairperson only has the rights of a member of the A<Mem>, except for those explicitly given in the Articles of Association or these Regulations.
+
+Jointly with the Secretary the Chairperson shall formulate the agenda for the next meeting.
 
 =numitem Secretary
 
 The Secretary is responsible for
+=item keeping the minutes of the meeting; the A<Exec> may delegate the taking of the minutes during a meeting to another member of the A<Exec>;
+=item receiving incoming correspondence of the A<FDN>;
+=item sending correspondence on behalf of the A<FDN>, unless the A<Exec> delegates specific correspondence to another member of the A<Exec> or A<Super>;
+=item following up on actions to be taken, and if the action was delegated to another person ny the A<Exec>, the Secretary may enquire about progress.
+=item jointly with the Chairperson, the Secretary shall formulate the agenda of the next meeting.
 
 =numitem Meetings of the A<Exec>
 
@@ -60,7 +71,9 @@ A<Exec> meetings may be held as follows:
 =item by a video internet meeting service, such as C<Jitsi>,
 =item by a combination of the above.
 
-The A<Exec> can decide to hold a meeting in another location.
+The A<Exec> can decide to hold a meeting in another location or by some other process.
+
+If a meeting is to be held online, then the location of the meeting shall include online definitions of location, such as URL, passwords, and mechanism for joining the meeting.
 
 =numitem Regularity of meetings
 
@@ -70,13 +83,24 @@ The A<Exec> should normally meet once a month, and the A<Exec> shall schedule th
 
 It is not necessary to notify each member of the A<Exec> about a scheduled meeting.
 
-The Chairperson or Secretary of the A<Exec> may call an unscheduled meeting in the event of an emergency. All the members of the A<Exec> must be informed of the time and medium of such an emergency meeting in a reasonable enough time to arrange to be present. No meeting may be called in such a manner as to exclude a member of the A<Exec> from the meeting. Unscheduled meetings shall be held by Jitsi.
+The Chairperson or Secretary of the A<Exec> may call an unscheduled meeting in the event of an emergency. All the members of the A<Exec> must be informed of the time and location of such an emergency meeting in a reasonable enough time to arrange to be present.
+
+No meeting may be called in such a manner as to exclude a member of the A<Exec> from the meeting.
+
+Unless otherwise decided by the A<Exec>, unscheduled meetings shall be held by Jitsi.
 
 =numitem Order of the meeting
 
 The meeting shall be convened by the Chairperson.
 
-The notices convening the meeting shall state place and time of the meeting; it is not obligatory to state the object or the business to be transacted.
+The agenda of the meeting shall be read out and approved.
+Any member of the A<Exec> may request an addition or modification of the order of the items in the agenda.
+
+The chairperson change the order of the agenda during the meeting if the discussion so warrants it.
+
+The minutes of the previous meeting, or a sumary of the decisions made, shall be read, and if the minutes are accepted by the A<Exec> to be a fair record of the decisions taken in the previous meeting, they are held to be approved.
+
+The chairperson should order the meeting so that all items on the agenda are discussed to a reasonable extent.
 
 =numitem Quorum
 
@@ -92,17 +116,62 @@ Meetings shall be chaired by the Chairperson of the A<Exec>; in their absence th
 
 Minutes of the proceedings of the meeting shall be taken by the secretary or by one of the other persons present.  The minutes shall be adopted by a simple majority of votes of the A<Exec> and signed by those who have acted as Chairperson and secretary of the meeting.
 
-The A<Exec> may only adopt valid resolutions in a meeting if the simple majority of its members in office are present or represented at the meeting.  Any A<Exec> member may represent one other fellow A<Exec> member in the meeting on submission of a signed authorization in writing.
-
-In case all the A<Exec> members unanimously decide on this manner of adopting resolutions, the A<Exec> may also adopt resolutions without holding a meeting, on the condition that the A<Exec> members adopt the resolutions unanimously.  The votes shall be cast in writing, including by telefax and email. A report of a resolution adopted in this manner shall be drawn up by the secretary, appending the replies received, which report, after having been co-signed by the Chairperson, shall be annexed to the minutes.
-
 Every member of the A<Exec> is entitled to cast one vote. In so far as these articles of association do not prescribe a larger majority, all A<Exec> resolutions shall be adopted by a simple majority of the votes legitimately cast.
 
-All votes in meetings shall be cast orally, unless one of the persons holding the right to vote requires vote by ballot. Vote by ballot shall take place by means of unsigned and closed notes.
-Blank notes shall be considered not to have been cast.
+All votes in meetings shall be cast orally, unless one of the members of the A<Exec> requests an annonymised ballot. If the meeting is in person, ballots will be cast. If the meeting is online, the members in the meeting shall change there online designation to 'member', the response to the question of the ballot shall be created in a chat post, but not sent. When the chairperson has ensured everyone prepared a ballot, all members shall send their chat post. The responses will then by annonymised and visible to all members of the meeting.
 
-Unless the articles of association provide otherwise, the opinion of the chairperson given in the meeting on the outcome of a vote shall be decisive.  In the event that the correctness of the opinion of the chairperson is disputed immediately after this has been given, a new vote shall take place if one person present entitled to vote requires this. By this new vote the legal consequences of the original vote shall become void. If the correctness of the vote is disputed a second time, a new vote will be held, this time by ballot, and the outcome of that cannot be disputed.
+A blank ballot or a chat post of 'abstain' are permitted. However, since a majority of the members in a meeting are required for a decision to pass, abstaining or a blank ballot is equivalent to a vote against the proposal.
 
+=numitem Minutes and actions
+
+A record of the meetings of the A<Exec> shall be made by the Secretary or a person delegated by the A<Exec> to do so.
+
+All actions by default are left to the Secretary to be executed or taken; the A<Exec> may decide to delegate an action to another member of the A<Exec>.
+
+In the event that circumstances change between the formulation of an Action and the time when the Action is to be executed, and the Action needs to be executed in a timely manner, the Chairman and the Secretary shall decide how to proceed, and to report the matter at the next meeting of the A<Exec>.
+
+In the event of a minute being found to be ambiguous, the Secretary, in consultation with the Chairman shall decide how the minute is to be interpretted, and their conclusion shall be reported at the next A<Exec> meeting.
+
+=head Important and Foundational Actions
+
+An action formulated by the A<Exec>, or any member of A<Mem>, as provided by the Articles of Association or these Regulations may have an effect that is considered Important or Foundational. Important and Foundational Actions require the consent of one or both of the A<Super> and A<Mem>, as set out in the Articles of Association.
+
+=numitem Consent procedure
+
+Any action, whether formulated by the A<Exec> or any member of the A<Mem>, must first obtain the consent of a majority of the members of the A<Exec>, not just a majority of the members present in a quorate meeting of the A<Exec>.
+
+In the event that an Action requires re-formulation in order to gain the consent of the A<Exec>, the A<Exec> shall change the formulation in order to obtain consent.
+
+When the consent of the A<Exec> has been obtained, the fact shall be minuted during a quorate meeting of the A<Exec>.
+
+When an action has the consent of the A<Exec> and consent is required from the A<Super>, the Secretary of the A<Exec> shall send an email to each member of the A<Super> giving the formulation of the Action, and setting a deadline for a positive or negative response.
+
+The responses received by the deadline shall be counted at the next convenient time.
+
+When an action requires the consent of the A<Super> and the consent of the A<Mem> as set out in the Articles of Association, the consent of the A<Super> if first required. Then the consent of the A<Mem> is sought.
+
+To obtain the consent of the A<Mem>, the Secretary shall email all the members of the A<Mem>, set a deadline, and count the responses.
+
+Consent is granted if
+=item the number of responses matches the response threshhold set out in the Articles of Assocciation, AND
+=item a majority of the responses are favourable.
+
+If consent is not given, the A<Exec> may modify the formulation of the Action and repeat the process.
+
+The deadlines set for consent to an Action shall be no less than seven days.
+
+=head Other agencies
+=numitem Definition
+
+The A<Exec> shall set up any agency, task force, or committee ("Agency") as the A<Exec> deems to be required to maintain the efficient functioning of the A<FDN>.
+
+The A<Exec> shall set the number of members of the Agency, the scope of its work and authority, the period in which it shall function, and all other attributes it will need to function.
+
+=numitem Community Affairs Team
+
+The A<Exec> shall name the members of the A<CAT> as soon as possible after the election of the A<Exec>.
+
+The A<CAT> shall operate as set out in these Regulations.
 
 =head Raku Code of Conduct
 
@@ -112,7 +181,7 @@ The Raku community is committed to providing a welcoming, inclusive, safe, and e
 
 Many people have eloquently described the -Ofun community culture to which we aspire.  In the interest of clarity and concision, this document does not do so; instead, it provides a short, readable list of unacceptable behaviors so that we're all on the same page about the ground rules in our particular community.
 
-The purpose of this A<CoC> is U<exclusively> to ensure that the Raku community is -Ofun (welcoming, inclusive, safe, and enjoyable for all).
+The purpose of this A<CoC> is I<B<exclusively>> to ensure that the Raku community is -Ofun (welcoming, inclusive, safe, and enjoyable for all).
 
 This A<CoC> is not designed to punish wrongdoers, mediate arguments, or improve the morality of community members.  Those goals may be worthy but are outside the scope of this document.
 
@@ -133,13 +202,13 @@ The following behaviors, in no particular order, are unacceptable and violate th
 =item Falsely reporting a A<CoC> violation in bad faith.
 =head Non Defenses
 
-The following "justifications" do U<not> excuse violating the Code of Conduct:
+The following "justifications" do I<B<not>> excuse violating the Code of Conduct:
 
 =item "They started it": When someone violates the A<CoC>, speaking to them about their behavior or reporting the behavior may be appropriate, depending on the circumstances.  However, no circumstances justify responding in a way that itself violates the A<CoC>. It is entirely possible for multiple people in a conversation to violate the A<CoC>; one person's A<CoC> violations in no way offset the other's.
-=item "I didn't mean to": Intent may be relevant to determining the U<severity> of a A<CoC> violation – malicious intent certainly makes harmful conduct worse.  But intent is typically U<not> relevant to determining whether conduct violates the A<CoC>.  Instead, whether behavior violates the A<CoC> is determined entirely by the impact that behavior had (and could be reasonably expected to have had).  Good intent does not excuse harmful impact.
+=item "I didn't mean to": Intent may be relevant to determining the I<B<severity>> of a A<CoC> violation – malicious intent certainly makes harmful conduct worse.  But intent is typically I<B<not>> relevant to determining whether conduct violates the A<CoC>.  Instead, whether behavior violates the A<CoC> is determined entirely by the impact that behavior had (and could be reasonably expected to have had).  Good intent does not excuse harmful impact.
 =item "It's free speech": A huge number of statements are both lawful and totally unwelcome in the Raku community; speech laws of any jurisdiction are entirely irrelevant to determining whether particular conduct violates the A<CoC>.
 =item "It's just a tone issue": In some communities, ideas are the only thing that matters – if the substance of an idea is correct, then the way that idea is expressed is irrelevant.  The Raku community is not like that.  In the Raku community, tone matters: forceful criticism of someone's ideas or behavior can be perfectly in keeping with the A<CoC> if expressed one way; the same ideas, expressed as a personal attack, would violate the A<CoC>.
-=item "That doesn't count because it was on a personal blog": As explained below, personal blogs, social media profiles, and similar spaces are U<not> covered by the A<CoC>; however, the Raku community can still respond to content or behavior in those spaces if that content/behavior makes complying with the A<CoC> in Raku spaces unlikely or impossible.  This is because enforcing the A<CoC> is never a punitive act; it is always about ensuring that the Raku community is -Ofun.  For instance, the Raku community would be neither inclusive nor enjoyable if it welcomed people who post racist screeds to their personal sites, no matter how assiduously they attempted to separate those statements from their Raku activities.
+=item "That doesn't count because it was on a personal blog": As explained below, personal blogs, social media profiles, and similar spaces are I<B<not>> covered by the A<CoC>; however, the Raku community can still respond to content or behavior in those spaces if that content/behavior makes complying with the A<CoC> in Raku spaces unlikely or impossible.  This is because enforcing the A<CoC> is never a punitive act; it is always about ensuring that the Raku community is -Ofun.  For instance, the Raku community would be neither inclusive nor enjoyable if it welcomed people who post racist screeds to their personal sites, no matter how assiduously they attempted to separate those statements from their Raku activities.
 =item "You'll never prove it": The A<CoC> is not a code of law, and enforcing it does not require proving that any particular violation definitely took place (much less proving it by the standards of a criminal court).  All it requires is that the response to an incident help make the Raku community -Ofun.
 =numitem Covered Spaces
 
@@ -149,12 +218,13 @@ and events, physical or digital.
 =head Enforcement
 =numitem
 
-The A<CoC> will be enforced by the Community Affairs Team (excluding any recused members) as described in the L<CoC Incident Response Guide|./coc_incident_response_guide.md>.  The A<CAT> will make every effort to respond within 72 hours of receiving a report; if a violation occurred, the A<CAT> may respond by a range of actions from informally discussing the incident with the violator to permanently banning the violator from Raku community spaces and recommending that the Raku Steering Council eject them from the core team.  Please see the L<CoC Incident Response Guide|#allowed-responses> for details.
+The A<CoC> will be enforced by the Community Affairs Team (excluding any recused members) as described in the L<CoC Incident Response Guide|#incident_response>.  The A<CAT> will make every effort to respond within 72 hours of receiving a report; if a violation occurred, the A<CAT> may respond by a range of actions from informally discussing the incident with the violator to permanently banning the violator from Raku community spaces and recommending that the Raku Steering Council eject them from the core team.  Please see the L<CoC Incident Response Guide|#allowed-responses> for details.
 =head Reporting Violations
 
 If a member of the A<Mem> or a participant in an event of the A<FDN> is or has been subject to or witnessed a A<CoC> violation, that person should report it to CAT@raku.org.  Alternatively, the person can report a violation to any member of the A<CAT>, who will forward it to all non-recused members of the A<CAT>.  Please be aware that, while the CAT will make all reasonable efforts not to disclose the identity of individuals who report violations, it cannot guarantee a reporter anonymity nor do reporters have a way to lessen or otherwise alter the action the CAT takes based on a report.
 
-=head Raku A<CoC> Incident Response Guide
+=for head :id<incident_response>
+Raku A<CoC> Incident Response Guide
 =numitem Preface
 
 This document describes the Raku Code of Conduct enforcement procedures in general terms but is not intended to be binding or to create any rights; in all cases, ensuring that the Raku community is welcoming, inclusive, safe, and enjoyable for all ("-Ofun") should take priority over strictly following the procedures described below.
@@ -180,7 +250,7 @@ In some cases (especially those involving in-person conduct), the A<CAT> may inv
 
 When considering alleged violations, the A<CAT> should bear in mind that it lacks the resources of the formal legal system and that the actions it takes inflict far less harm than those taken by the legal system. Accordingly, the A<CAT> should not attempt to determine whether a violation has been proven beyond a reasonable doubt. Instead, it should ask what action best promotes an -Ofun community based on the facts as they appear.
 
-Similarly, the lower severity of the remedies available to the A<CAT> mean that alleged violators need not receive any of the procedural protections criminal defendants are entitled to, such as the right to speak in their defense.  Accordingly, it is especially important that the A<CAT> remember that determining guilt and assigning punishment are U<not> within its purview; the A<CAT>'s only job is to make decisions that will make the Raku community as -Ofun as possible.
+Similarly, the lower severity of the remedies available to the A<CAT> mean that alleged violators need not receive any of the procedural protections criminal defendants are entitled to, such as the right to speak in their defense.  Accordingly, it is especially important that the A<CAT> remember that determining guilt and assigning punishment are I<B<not>> within its purview; the A<CAT>'s only job is to make decisions that will make the Raku community as -Ofun as possible.
 
 Additionally, the A<CAT> should remember that the violator's intent (which may be impossible to accurately determine) is generally not relevant; instead, the A<CAT> should focus on the impact the incident had, and the impact that other, similar events could be expected to have.
 
@@ -211,7 +281,7 @@ Time is sometimes of the essence when responding to a A<CoC> incident. According
 
 =numitem2 Disallowed Responses
 
-While the A<CAT> can take appropriate actions other than those listed above, it should U<not> take any of the following inappropriate actions:
+While the A<CAT> can take appropriate actions other than those listed above, it should I<B<not>> take any of the following inappropriate actions:
 
 =item Requiring the violator to apologize (voluntary apologies are sometimes helpful; coerced apologies never are).
 =item Asking or requiring the target of the violation to decide on or approve the action (this shifts blame to the target; the decision is the A<CAT>'s responsibility).
@@ -221,7 +291,7 @@ While the A<CAT> can take appropriate actions other than those listed above, it 
 
 The A<CAT> should not require mediation, nor should it recommend mediation as an action it takes in response to a A<CoC> violation.  This is because violating the A<CoC> is an action that harms the entire Raku community; reframing the A<CoC> violation as an interpersonal conflict is inappropriate and suggests that the target of the violation is partly or equally responsible for the violation.  This is incorrect: it is perfectly possible for two people to dislike each other without either violating the A<CoC>.
 
-However, it is equally the case that continued interpersonal conflict or animosity could lead to future A<CoC> violations and, even if it doesn't, makes the Raku community less -Ofun.  Thus, if the A<CAT> identifies an underlying interpersonal conflict or cross-cultural misunderstanding, it can be appropriate for the A<CAT> to offer mediation U<after and separate from> its resolution of the violation.  If the A<CAT> offers mediation, it should state clearly that mediation is not required and is not a response that the A<CAT> is taking based on the A<CoC> violation but rather is a service the A<CAT> is offering to help resolve an underlying interpersonal or cross-cultural issue.  Mediation should U<never> be offered if the violation is extremely serious (e.g., harassment).
+However, it is equally the case that continued interpersonal conflict or animosity could lead to future A<CoC> violations and, even if it doesn't, makes the Raku community less -Ofun.  Thus, if the A<CAT> identifies an underlying interpersonal conflict or cross-cultural misunderstanding, it can be appropriate for the A<CAT> to offer mediation I<B<after and separate from>> its resolution of the violation.  If the A<CAT> offers mediation, it should state clearly that mediation is not required and is not a response that the A<CAT> is taking based on the A<CoC> violation but rather is a service the A<CAT> is offering to help resolve an underlying interpersonal or cross-cultural issue.  Mediation should I<B<never>> be offered if the violation is extremely serious (e.g., harassment).
 =numitem After Taking Action
 
 In all cases, the A<CAT> will inform the reporter how the report was resolved and may inform others who witnessed the incident.  When deciding whom to inform, the A<CAT> should keep in mind that, if a bystander is not informed that action was taken based on a A<CoC> violation, they may conclude that the Raku community permits behavior of the sort they witnessed.
@@ -243,7 +313,7 @@ Whenever the A<CAT> publishes a summary of any incidents or otherwise communicat
 
 (The reason for this restriction is that defenses of violations can often do more to make a community non-inclusive than the initial violation itself, especially when those debates occur in spaces that are impractical for community members to avoid (such as #raku).  It is essential that there be a space for the community to debate and criticize the A<CAT>'s actions, but it's also essential that this space be an opt-in one.)
 
-If community discussion reveals significant confusion or misunderstanding about a factual issue, the A<CAT> may issue U<one> follow up communication about the incident.  When doing so, it should keep the following rules (from L<How to Respond to Code of Conduct Reports|https://frameshiftconsulting.com/code-of-conduct-book/>) in mind:
+If community discussion reveals significant confusion or misunderstanding about a factual issue, the A<CAT> may issue I<B<one>> follow up communication about the incident.  When doing so, it should keep the following rules (from L<How to Respond to Code of Conduct Reports|https://frameshiftconsulting.com/code-of-conduct-book/>) in mind:
 =item Do not try to persuade people who strongly disagree with you
 =item Wait to see how people react to the initial announcement
 =item If necessary, post one follow-up to clarify any genuine misunderstandings
