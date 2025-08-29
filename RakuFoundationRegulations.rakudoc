@@ -184,10 +184,16 @@ Many people have eloquently described the -Ofun community culture to which we as
 
 The A<FDN> adopts the A<CoC> set out in a separate document called the A<CoC>. This document provides a short, readable list of unacceptable behaviors to ensure all members of the A<FDN> are on the same page about the ground rules in our particular community.
 
-=numitem The A<CoC> may only be ammended by the effect of an Important Action.
+=numitem A<CoC> amendment
 
-=numitem The A<CAT> shall manage incidents of reported breaches of the A<CoC> according to the A<CAGuide>, which is a separate document.
+The A<CoC> may only be amended by the effect of an Important Action.
 
-=numitem The A<CAGuide> may only be ammended by the effect of an Important Action.
+=numitem A<CAT> activity
+
+The A<CAT> shall manage incidents of reported breaches of the A<CoC> according to the A<CAGuide>, which is a separate document.
+
+=numitem A<CAGuide> amendment
+
+The A<CAGuide> may only be amended by the effect of an Important Action.
 
 =end rakudoc
