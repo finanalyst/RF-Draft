@@ -5,8 +5,9 @@
 =for AUTHORS :hidden
 Elizabeth Mattijsen
 Richard Hainsworth
+William Coleda
 
-=VERSION v0.1.2
+=VERSION v0.1.3
 
 =config numitem :prefix<Article> :continued
 =alias RP Raku Programming Language
@@ -168,7 +169,7 @@ The valid votes cast for each Candidate shall be counted, with each valid vote c
 
 =numitem Determination of A<Exec> members
 
-The Candidates upto the number of members of the A<Exec> with the most votes shall be declared members of the A<Exec> from the following 21st April.
+The Candidates up to the number of members of the A<Exec> with the most votes shall be declared members of the A<Exec> from the following 21st April.
 
 In the event that more Candidates have the top positions than there are A<Exec> members specified in the Regulations because two or more Candidates have the same number of votes, then one or more Candidates shall be drawn at random from the group of Candidates sharing the same number of votes until the number of A<Exec> members as specified in the Regulations is chosen.
 
@@ -214,6 +215,10 @@ In the event of a vacancy on the A<Exec>, the vacancy shall be filled by the Can
 
 The members of the A<Exec> shall not be paid a remuneration for their activities.  However, in so far as the assets of the A<FDN> allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties.
 
+=numitem Code of Conduct
+
+Each member of the A<Exec> is expected to adhere to the Code of Conduct, which shall be set out in the Regulations.
+
 =head A<Super>
 =numitem The A<Super> consists of members generally respected by the Raku community.
 =numitem A member of the A<Super> is appointed as a result of an Important Action.
@@ -236,6 +241,10 @@ The members of the A<Super> shall not be paid a remuneration for their activitie
 The A<Super> exists to guide and monitor the A<Exec>. All members of the A<Super> may vote on Important and Foundational Actions. Each member has one vote on any single Action.
 
 When A<ForceImp> or more members of the A<Super> jointly write to the A<Exec>, they may require that an Ordinary Action of the A<Exec> already taken or proposed to be taken be converted into an Important Action. The A<Exec> is required then to postpone the operation or execution of the Ordinary Action and to obtain the consent required for an Important Action. If the consent is not obtained, then the Action must be modified and consent requested as an Important Action.
+
+=numitem Code of Conduct
+
+Each member of the A<Super> is expected to adhere to the Code of Conduct, which shall be set out in the Regulations.
 
 =head The A<Mem>
 =numitem Eligibility for membership

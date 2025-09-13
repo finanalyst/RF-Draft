@@ -2,9 +2,9 @@
 # Articles of Association
 
 
-<div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v0.1.2"></div><div id="VERSION"></div>
+<div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v0.1.3"></div><div id="VERSION"></div>
 
-## VERSION&nbsp;&nbsp;&nbsp;&nbsp;v0.1.2
+## VERSION&nbsp;&nbsp;&nbsp;&nbsp;v0.1.3
 
 <div id="Name, Registration, and Business Language"></div><div id="Name,_Registration,_and_Business_Language"></div>
 
@@ -181,7 +181,7 @@
 
 **Article 21.** <span class="para" id="8f77441"></span>Determination of Executive Board members  
 
-<span class="para" id="887bd26"></span>The Candidates upto the number of members of the Executive Board with the most votes shall be declared members of the Executive Board from the following 21st April. 
+<span class="para" id="59b83b2"></span>The Candidates up to the number of members of the Executive Board with the most votes shall be declared members of the Executive Board from the following 21st April. 
 
 <span class="para" id="093741a"></span>In the event that more Candidates have the top positions than there are Executive Board members specified in the Regulations because two or more Candidates have the same number of votes, then one or more Candidates shall be drawn at random from the group of Candidates sharing the same number of votes until the number of Executive Board members as specified in the Regulations is chosen. 
 
@@ -235,17 +235,22 @@
 <span class="para" id="331cceb"></span>The members of the Executive Board shall not be paid a remuneration for their activities. However, in so far as the assets of the Raku Foundation allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties. 
 
 
+**Article 29.** Code of Conduct  
+
+<span class="para" id="f792aca"></span>Each member of the Executive Board is expected to adhere to the Code of Conduct, which shall be set out in the Regulations. 
+
+
 <div id="Supervisory Board"></div><div id="Super"></div>
 
 ## Supervisory Board
 
-**Article 29.** <span class="para" id="7bcf65c"></span>The Supervisory Board consists of members generally respected by the Raku community.  
+**Article 30.** <span class="para" id="7bcf65c"></span>The Supervisory Board consists of members generally respected by the Raku community.  
 
 
-**Article 30.** <span class="para" id="fa17aff"></span>A member of the Supervisory Board is appointed as a result of an Important Action.  
+**Article 31.** <span class="para" id="fa17aff"></span>A member of the Supervisory Board is appointed as a result of an Important Action.  
 
 
-**Article 31.** <span class="para" id="9e5cd35"></span>Cessation of membership on Supervisory Board  
+**Article 32.** <span class="para" id="9e5cd35"></span>Cessation of membership on Supervisory Board  
 
 <span class="para" id="6b180e8"></span>A member of the Supervisory Board may cease to be a member because the individual 
 
@@ -256,50 +261,55 @@
 <span class="para" id="7813e7d"></span>A member of the Supervisory Board shall only be removed as a result of an Important Action. 
 
 
-**Article 32.** <span class="para" id="eb6ee2b"></span>Supervisory Board remuneration  
+**Article 33.** <span class="para" id="eb6ee2b"></span>Supervisory Board remuneration  
 
 <span class="para" id="7bf8033"></span>The members of the Supervisory Board shall not be paid a remuneration for their activities. However, in so far as the assets of the Raku Foundation allow for this, they have a right to compensation for the expenses incurred by them in the performances of their duties. 
 
 
-**Article 33.** <span class="para" id="aa48e99"></span>Powers of the Supervisory Board and its members  
+**Article 34.** <span class="para" id="aa48e99"></span>Powers of the Supervisory Board and its members  
 
 <span class="para" id="c2fb4cd"></span>The Supervisory Board exists to guide and monitor the Executive Board. All members of the Supervisory Board may vote on Important and Foundational Actions. Each member has one vote on any single Action. 
 
 <span class="para" id="4cd2cc6"></span>When one third or more members of the Supervisory Board jointly write to the Executive Board, they may require that an Ordinary Action of the Executive Board already taken or proposed to be taken be converted into an Important Action. The Executive Board is required then to postpone the operation or execution of the Ordinary Action and to obtain the consent required for an Important Action. If the consent is not obtained, then the Action must be modified and consent requested as an Important Action. 
 
 
+**Article 35.** Code of Conduct  
+
+<span class="para" id="7cc7fe6"></span>Each member of the Supervisory Board is expected to adhere to the Code of Conduct, which shall be set out in the Regulations. 
+
+
 <div id="The Raku Community"></div><div id="The_Mem"></div>
 
 ## The Raku Community
 
-**Article 34.** Eligibility for membership  
+**Article 36.** Eligibility for membership  
 
 <span class="para" id="1f86441"></span>Only physical individuals may become members of the Raku Foundation. 
 
 
-**Article 35.** Membership fees  
+**Article 37.** Membership fees  
 
 <span class="para" id="224a82e"></span>Membership fees shall be set in the Regulations and may discounted or waived by the Executive Board as its discretion for good reason, such as because the member is a student, has no disposable income, is prolific contributor to the Raku core or Raku modules, provided that the reason for the waiver or discount is made known to the membership. 
 
 
-**Article 36.** Fees are donations  
+**Article 38.** Fees are donations  
 
 <span class="para" id="fba6ef6"></span>Membership fees are donations to the Raku Foundation and once paid may not be refunded. 
 
 
-**Article 37.** Membership rights  
+**Article 39.** Membership rights  
 
 <span class="para" id="9c5f974"></span>A member has the right to participate in all elections and to vote when consent is being sought for Important and Critial Actions. Each member has one ballot in each election. Once a ballot is cast, it cannot be changed unless a process for doing so is set out in the Regulations. 
 
 
-**Article 38.** Membership duties  
+**Article 40.** Membership duties  
 
 <span class="para" id="1351a3b"></span>Each member is expected to adhere to the Code of Conduct, which shall be set out in the Regulations. 
 
 <span class="para" id="5a61c5f"></span>Each member shall provide the minimal personal, descriptive and contact information as set out in the Regulations in order to maintain a membership list. 
 
 
-**Article 39.** Cessation of membership  
+**Article 41.** Cessation of membership  
 
 <span class="para" id="c547484"></span>An individual ceases to be a member if the individual 
 
@@ -310,7 +320,7 @@
 <span class="para" id="9f282ea"></span>In the event of an individual ceasing to be a member, the membership fees are not reimbursed. 
 
 
-**Article 40.** Membership list  
+**Article 42.** Membership list  
 
 <span class="para" id="6161084"></span>The Executive Board shall maintain an up to date list of the Raku Community, together with personal, descriptive and contact information as set out in the Regulations. 
 
@@ -323,14 +333,14 @@
 
 ## Change of, Addition to, or Amendment of The Articles of Association
 
-**Article 41.**   
+**Article 43.**   
 
 <span class="para" id="5a718f9"></span>The Articles of Association shall only be changed, added to or amended as a result of a Foundational Action. 
 
 <span class="para" id="ee4e133"></span>The proposal for such an action may be made by any member of the Raku Foundation. 
 
 
-**Article 42.**   
+**Article 44.**   
 
 <span class="para" id="566998a"></span>The Executive Board is obliged to file a copy of the deed of amendment, as well as the amended articles of association at the office of the Trade Register held by the authorized Chamber of Commerce and Industry appointed by law. 
 
@@ -339,7 +349,7 @@
 
 ## Change of, Addition to, or Amendment of Regulations
 
-**Article 43.**   
+**Article 45.**   
 
 <span class="para" id="1f99d6f"></span>The Regulations shall only be changed, added to or amended as a result of an Important Action. 
 
@@ -350,22 +360,22 @@
 
 ## Financial year and annual report and accounts
 
-**Article 44.** Period  
+**Article 46.** Period  
 
 <span class="para" id="f5ad1e7"></span>The financial year of the Raku Foundation is the same as the calendar year. 
 
 
-**Article 45.** Records  
+**Article 47.** Records  
 
 <span class="para" id="1fc57c5"></span>The Executive Board is obliged to keep records of the financial condition of the Raku Foundation, in accordance with the requirements arising from these activities, in such a manner and to keep the books, documents, correspondence, computer files and other data carriers pertaining thereto in such a manner that the assets, the rights and obligations of the Raku Foundation can be inspected at all times. 
 
 
-**Article 46.** Financial reports  
+**Article 48.** Financial reports  
 
 <span class="para" id="7ee98cf"></span>Without prejudice to what is provided otherwise by law, the Executive Board is obliged to prepare and put on paper the balance sheet and the statement of income and expenditure of the Raku Foundation each year within six months after the end of the financial year. In the event that the Raku Foundation maintains one or more enterprises, which, pursuant to the law, have to be listed in the Trade Register of the Chamber of Commerce, the net turnover and profit or loss of each enterprise shall be stated in the statement of income and expenditure. 
 
 
-**Article 47.** Archiving  
+**Article 49.** Archiving  
 
 <span class="para" id="84d5662"></span>The Executive Board is obliged to keep the books, documents, correspondence, computer files and other data carriers referred to in Article 'Financial reports' and Article 'Records' for ten years. 
 
@@ -376,7 +386,7 @@
 
 ## Dissolution and Liquidation
 
-**Article 48.**   
+**Article 50.**   
 
 <span class="para" id="c2013db"></span>The Raku Foundation shall only be dissolved as the result of a Foundational Action 
 
@@ -398,7 +408,7 @@
 
 ----
 
-Rendered from ./articles-of-association.rakudoc/articles-of-association at 10:00 UTC on 2025-08-29
+Rendered from ./articles-of-association.rakudoc/articles-of-association at 09:34 UTC on 2025-09-13
 
-Source last modified at 09:10 UTC on 2025-08-29
+Source last modified at 09:33 UTC on 2025-09-13
 

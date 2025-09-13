@@ -1,10 +1,23 @@
 
 # <span class="para" id="ab58128"></span>Regulations for the operation of the Raku Foundation
 
+----
 
-<div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.0"></div><div id="VERSION"></div>
+## Table of Contents
 
-## VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.0
+<a href="#VERSION">VERSION</a>   
+<a href="#Overview">Overview</a>   
+<a href="#The_Exec">The Executive Board</a>   
+<a href="#Important_and_Foundational_Actions">Important and Foundational Actions</a>   
+<a href="#Elections_and_voting">Elections and voting</a>   
+<a href="#Other_agencies">Other agencies</a>   
+<a href="#Raku_Code_of_Conduct_and_Community_Affairs">Raku Code of Conduct and Community Affairs</a>   
+
+
+
+<div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.1"></div><div id="VERSION"></div>
+
+## VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.1
 <div id="Overview"></div>
 
 ## Overview
@@ -65,7 +78,7 @@
 
 <span class="para" id="38542d2"></span>Executive Board meetings may be held as follows: 
 
-&nbsp;&nbsp;• <span class="para" id="d567df3"></span>in person at the The head office of the Raku Foundation,  
+&nbsp;&nbsp;• <span class="para" id="bbd4f60"></span>in person at the head office of the Raku Foundation,  
 &nbsp;&nbsp;• <span class="para" id="75420b6"></span>by a video internet meeting service, such as `Jitsi`,  
 &nbsp;&nbsp;• by a combination of the above.  
 <span class="para" id="0fc7104"></span>The Executive Board can decide to hold a meeting in another location or by some other process. 
@@ -164,18 +177,64 @@
 <span class="para" id="fdc40a8"></span>The deadlines set for consent to an Action shall be no less than seven days. 
 
 
+<div id="Elections and voting"></div><div id="Elections_and_voting"></div>
+
+## Elections and voting
+<span class="para" id="cd35f7a"></span>Voting occurs for the election of the Executive Board and when seeking consent for Foundational and Important Actions. 
+
+
+**Article 12.** Tellers  
+
+<span class="para" id="619a1aa"></span>When preparing for an election or consent request, the Executive Board shall appoint no fewer than two tellers. 
+
+<span class="para" id="cd58a80"></span>The tellers are members of the Raku Community who are judged by the Executive Board to be honest and trustworthy. 
+
+<span class="para" id="f3782be"></span>Tellers may not divulge to anyone the contents of any ballot in a manner that may show in any way how a voter recorded their choice, unless compelled by the laws of the Netherlands to do so. 
+
+
+**Article 13.** Ballot requirements  
+
+<span class="para" id="49d2b14"></span>Votes may only be cast by sending one ballot per voter by email to the Collection address. 
+
+<span class="para" id="4115ee4"></span>The Executive Board may provide for additional security arrangements to ensure that a voter may only cast one vote, and so that the ballot is anonymised. 
+
+
+**Article 14.** Collection address  
+
+<span class="para" id="59c494a"></span>When sending out the email requesting a vote, the Executive Board through its Secretary shall include in the email the email address to which votes shall be sent. 
+
+<span class="para" id="003e99b"></span>Access to the Collection address shall only be granted to the tellers. 
+
+
+**Article 15.** Counting of votes  
+
+<span class="para" id="373b66c"></span>Unless otherwise provided for by the Executive Board, the tellers shall compare the sender of a ballot to the list of voters, and duplicate valid ballots from one voter shall be eliminated, with the first valid ballot received at the email address taking priority over subsequent ballots. 
+
+<span class="para" id="2abd1dc"></span>The tellers shall to the extent possible ensure that the votes recorded in a ballot shall not associated with the name or identity of the voter. 
+
+
+**Article 16.** Random choice  
+
+<span class="para" id="2b74c3e"></span>As provided for by the Articles of Association and these Regulations, tie votes shall be resolved by a random procedure, as follows: 
+
+&nbsp;&nbsp;• The candidates in the group of candidates with the same number of votes shall be listed.  
+&nbsp;&nbsp;• The number of candidates needing to be chosen shall be defined.  
+&nbsp;&nbsp;• For each candidate an biased 6-faced die shall be thrown, and the number on the upper face shall be recorded as the score for the candidate,  
+&nbsp;&nbsp;• The candidate with the highest score, or highest scores if more than one candidate needs to be chosen, shall be chosen.  
+&nbsp;&nbsp;• In the event the scores for two or more candidates are the same, the die shall be tossed again until an unambiguous set of scores is obtained.  
+
 <div id="Other agencies"></div><div id="Other_agencies"></div>
 
 ## Other agencies
 
-**Article 12.** Definition  
+**Article 17.** Definition  
 
 <span class="para" id="07780fa"></span>The Executive Board shall set up any agency, task force, or committee ("Agency") as the Executive Board deems to be required to maintain the efficient functioning of the Raku Foundation. 
 
 <span class="para" id="6e3a8ca"></span>The Executive Board shall set the number of members of the Agency, the scope of its work and authority, the period in which it shall function, and all other attributes it will need to function. 
 
 
-**Article 13.** Community Affairs Team  
+**Article 18.** Community Affairs Team  
 
 <span class="para" id="5830fb7"></span>The Executive Board shall name the members of the Raku Community Affairs Team as soon as possible after the election of the Executive Board. 
 
@@ -190,22 +249,22 @@
 <span class="para" id="51b31f1"></span>Many people have eloquently described the -Ofun community culture to which we aspire. 
 
 
-**Article 14.** <span class="para" id="6c47861"></span>Raku Code of Conduct  
+**Article 19.** <span class="para" id="6c47861"></span>Raku Code of Conduct  
 
 <span class="para" id="e7b6918"></span>The Raku Foundation adopts the Raku Code of Conduct set out in a separate document called the Raku Code of Conduct. This document provides a short, readable list of unacceptable behaviors to ensure all members of the Raku Foundation are on the same page about the ground rules in our particular community. 
 
 
-**Article 15.** <span class="para" id="075dd56"></span>Raku Code of Conduct amendment  
+**Article 20.** <span class="para" id="075dd56"></span>Raku Code of Conduct amendment  
 
 <span class="para" id="31a6fec"></span>The Raku Code of Conduct may only be amended by the effect of an Important Action. 
 
 
-**Article 16.** <span class="para" id="0787f57"></span>Raku Community Affairs Team activity  
+**Article 21.** <span class="para" id="0787f57"></span>Raku Community Affairs Team activity  
 
 <span class="para" id="e0cdde7"></span>The Raku Community Affairs Team shall manage incidents of reported breaches of the Raku Code of Conduct according to the Community Affairs Guide, which is a separate document. 
 
 
-**Article 17.** <span class="para" id="0d096de"></span>Community Affairs Guide amendment  
+**Article 22.** <span class="para" id="0d096de"></span>Community Affairs Guide amendment  
 
 <span class="para" id="5e27097"></span>The Community Affairs Guide may only be amended by the effect of an Important Action.
 
@@ -215,7 +274,7 @@
 
 ----
 
-Rendered from ./RakuFoundationRegulations.rakudoc/RakuFoundationRegulations at 10:00 UTC on 2025-08-29
+Rendered from ./RakuFoundationRegulations.rakudoc/RakuFoundationRegulations at 09:34 UTC on 2025-09-13
 
-Source last modified at 09:21 UTC on 2025-08-29
+Source last modified at 09:33 UTC on 2025-09-13
 

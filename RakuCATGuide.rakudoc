@@ -3,8 +3,9 @@
 =for AUTHORS :hidden
 Elizabeth Mattijsen
 Richard Hainsworth
+William Coleda
 
-=VERSION v 0.1.0
+=VERSION v 0.1.1
 
 =config numitem :prefix<Article> :continued
 =config numitem2 :prefix<Article> :continued
@@ -117,7 +118,7 @@ The following incident description from the L<Conference in the Cloud 2020 SoC T
 
 Whenever the A<CAT> publishes a summary of any incidents or otherwise communicates publicly, it shall establish an appropriate venue for discussion (e.g., a GitHub issue) and shall request that all discussion about the incidents be limited to that venue or sent directly to the A<CAT> via email.  It shall also state that discussion of the incident or debate about the appropriate response to it is off topic in all other Raku spaces and may itself be a A<CoC> violation.
 
-(The reason for this restriction is that defenses of violations can often do more to make a community non-inclusive than the initial violation itself, especially when those debates occur in spaces that are impractical for community members to avoid (such as #raku).  It is essential that there be a space for the community to debate and criticize the A<CAT>'s actions, but it's also essential that this space be an opt-in one.)
+The reason for this restriction is that defenses of violations can often do more to make a community non-inclusive than the initial violation itself, especially when those debates occur in spaces that are impractical for community members to avoid (such as #raku).  It is essential that there be a space for the community to debate and criticize the A<CAT>'s actions, but it's also essential that this space be an opt-in one.
 
 If community discussion reveals significant confusion or misunderstanding about a factual issue, the A<CAT> may issue I<B<one>> follow up communication about the incident.  When doing so, it should keep the following rules (from L<How to Respond to Code of Conduct Reports|https://frameshiftconsulting.com/code-of-conduct-book/>) in mind:
 =item Do not try to persuade people who strongly disagree with you

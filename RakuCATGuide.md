@@ -2,9 +2,9 @@
 # Community Affairs Incident Response Guide
 
 
-<div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.0"></div><div id="VERSION"></div>
+<div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.1"></div><div id="VERSION"></div>
 
-## VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.0
+## VERSION&nbsp;&nbsp;&nbsp;&nbsp;v 0.1.1
 
 **Article 1.** Preface  
 
@@ -122,7 +122,7 @@
 
 <span class="para" id="c4b0712"></span>Whenever the Raku Community Affairs Team publishes a summary of any incidents or otherwise communicates publicly, it shall establish an appropriate venue for discussion (e.g., a GitHub issue) and shall request that all discussion about the incidents be limited to that venue or sent directly to the Raku Community Affairs Team via email. It shall also state that discussion of the incident or debate about the appropriate response to it is off topic in all other Raku spaces and may itself be a Raku Code of Conduct violation. 
 
-<span class="para" id="a515645"></span>(The reason for this restriction is that defenses of violations can often do more to make a community non-inclusive than the initial violation itself, especially when those debates occur in spaces that are impractical for community members to avoid (such as #raku). It is essential that there be a space for the community to debate and criticize the Raku Community Affairs Team's actions, but it's also essential that this space be an opt-in one.) 
+<span class="para" id="32aff48"></span>The reason for this restriction is that defenses of violations can often do more to make a community non-inclusive than the initial violation itself, especially when those debates occur in spaces that are impractical for community members to avoid (such as #raku). It is essential that there be a space for the community to debate and criticize the Raku Community Affairs Team's actions, but it's also essential that this space be an opt-in one. 
 
 <span class="para" id="550500c"></span>If community discussion reveals significant confusion or misunderstanding about a factual issue, the Raku Community Affairs Team may issue ***one*** follow up communication about the incident. When doing so, it should keep the following rules (from [How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/code-of-conduct-book/)) in mind: 
 
@@ -142,7 +142,7 @@
 
 ----
 
-Rendered from ./RakuCATGuide.rakudoc/RakuCATGuide at 10:00 UTC on 2025-08-29
+Rendered from ./RakuCATGuide.rakudoc/RakuCATGuide at 09:34 UTC on 2025-09-13
 
-Source last modified at 09:02 UTC on 2025-08-29
+Source last modified at 09:33 UTC on 2025-09-13
 

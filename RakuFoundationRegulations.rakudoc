@@ -1,10 +1,11 @@
-=begin rakudoc :!toc :!index
+=begin rakudoc
 
 =for AUTHORS :hidden
 Elizabeth Mattijsen
 Richard Hainsworth
+William Coleda
 
-=VERSION v 0.1.0
+=VERSION v 0.1.1
 
 =config numitem :prefix<Article> :continued
 =config numitem2 :prefix<Article> :continued
@@ -15,7 +16,7 @@ Richard Hainsworth
 =alias Mem Raku Community
 =alias CAT Raku Community Affairs Team
 =alias CoC Raku Code of Conduct
-=alias HQ The head office
+=alias HQ head office
 =alias CAGuide Community Affairs Guide
 
 =TITLE Regulations for the operation of the A<FDN>
@@ -160,6 +161,45 @@ Consent is granted if
 If consent is not given, the A<Exec> may modify the formulation of the Action and repeat the process.
 
 The deadlines set for consent to an Action shall be no less than seven days.
+
+=head Elections and voting
+
+Voting occurs for the election of the A<Exec> and when seeking consent for Foundational and Important Actions.
+
+=numitem Tellers
+
+When preparing for an election or consent request, the A<Exec> shall appoint no fewer than two tellers.
+
+The tellers are members of the A<Mem> who are judged by the A<Exec> to be honest and trustworthy.
+
+Tellers may not divulge to anyone the contents of any ballot in a manner that may show in any way how a voter recorded their choice, unless compelled by the laws of the Netherlands to do so.
+
+=numitem Ballot requirements
+
+Votes may only be cast by sending one ballot per voter by email to the Collection address.
+
+The A<Exec> may provide for additional security arrangements to ensure that a voter may only cast one vote, and so that the ballot is anonymised.
+
+=numitem Collection address
+
+When sending out the email requesting a vote, the A<Exec> through its Secretary shall include in the email the email address to which votes shall be sent.
+
+Access to the Collection address shall only be granted to the tellers.
+
+=numitem Counting of votes
+
+Unless otherwise provided for by the A<Exec>, the tellers shall compare the sender of a ballot to the list of voters, and duplicate  valid ballots from one voter shall be eliminated, with the first valid ballot received at the email address taking priority over subsequent ballots.
+
+The tellers shall to the extent possible ensure that the votes recorded in a ballot shall not associated with the name or identity of the voter.
+
+=numitem Random choice
+
+As provided for by the Articles of Association and these Regulations, tie votes shall be resolved by a random procedure, as follows:
+=item The candidates in the group of candidates with the same number of votes shall be listed.
+=item The number of candidates needing to be chosen shall be defined.
+=item For each candidate an biased 6-faced die shall be thrown, and the number on the upper face shall be recorded as the score for the candidate,
+=item The candidate with the highest score, or highest scores if more than one candidate needs to be chosen, shall be chosen.
+=item In the event the scores for two or more candidates are the same, the die shall be tossed again until an unambiguous set of scores is obtained.
 
 =head Other agencies
 =numitem Definition
