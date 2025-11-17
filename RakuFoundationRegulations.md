@@ -46,22 +46,22 @@
 
 <span class="para" id="998adeb"></span>The Executive Board shall elect the following officers: 
 
-&nbsp;&nbsp;• Chairperson  
+&nbsp;&nbsp;• Chair  
 &nbsp;&nbsp;• Secretary  
 &nbsp;&nbsp;• Treasurer  
-&nbsp;&nbsp;• Vice-Chairperson  
+&nbsp;&nbsp;• Vice-Chair  
 
-**Article 4.** Chairperson  
+**Article 4.** Chair  
 
-<span class="para" id="dfb5c10"></span>The Chairperson shall order the discussion, ensuring that each member of the Executive Board is given a reasonable chance to voice an opinion on each matter in the discussion, whilst also ensuring that no single member dominates the discussion or attempts to force a point of view on the other members. 
+<span class="para" id="837afd3"></span>The Chair shall order the discussion, ensuring that each member of the Executive Board is given a reasonable chance to voice an opinion on each matter in the discussion, whilst also ensuring that no single member dominates the discussion or attempts to force a point of view on the other members. 
 
-<span class="para" id="c6f36b7"></span>When a discussion has reached a conclusion, the Chairperson shall formulate the consensus and ask the Executive Board to vote on the formulation, which is then recorded in the minutes of the meeting. 
+<span class="para" id="38f4f41"></span>When a discussion has reached a conclusion, the Chair shall formulate the consensus and ask the Executive Board to vote on the formulation, which is then recorded in the minutes of the meeting. 
 
-<span class="para" id="1ae67f9"></span>The Chairperson does not have a casting vote. If during a quorate meeting the vote is tied on any matter, the topic is postponed to the next meeting. 
+<span class="para" id="2feee5e"></span>The Chair does not have a casting vote. If during a quorate meeting the vote is tied on any matter, the topic is postponed to the next meeting. 
 
-<span class="para" id="5e4632e"></span>Outside of an Executive Board meeting the Chairperson only has the rights of a member of the Raku Community, except for those explicitly given in the Articles of Association or these Regulations. 
+<span class="para" id="b550d13"></span>Outside of an Executive Board meeting the Chair only has the rights of a member of the Raku Community, except for those explicitly given in the Articles of Association or these Regulations. 
 
-<span class="para" id="822999f"></span>Jointly with the Secretary the Chairperson shall formulate the agenda for the next meeting. 
+<span class="para" id="a929328"></span>Jointly with the Secretary the Chair shall formulate the agenda for the next meeting. 
 
 
 **Article 5.** Secretary  
@@ -72,7 +72,7 @@
 &nbsp;&nbsp;• <span class="para" id="06b2db8"></span>receiving incoming correspondence of the Raku Foundation;  
 &nbsp;&nbsp;• <span class="para" id="ca83d6e"></span>sending correspondence on behalf of the Raku Foundation, unless the Executive Board delegates specific correspondence to another member of the Executive Board or Supervisory Board;  
 &nbsp;&nbsp;• <span class="para" id="af49ee5"></span>following up on actions to be taken, and if the action was delegated to another person ny the Executive Board, the Secretary may enquire about progress.  
-&nbsp;&nbsp;• jointly with the Chairperson, the Secretary shall formulate the agenda of the next meeting.  
+&nbsp;&nbsp;• jointly with the Chair, the Secretary shall formulate the agenda of the next meeting.  
 
 **Article 6.** <span class="para" id="f9f5b17"></span>Meetings of the Executive Board  
 
@@ -94,7 +94,7 @@
 
 <span class="para" id="2238e6c"></span>It is not necessary to notify each member of the Executive Board about a scheduled meeting. 
 
-<span class="para" id="454110d"></span>The Chairperson or Secretary of the Executive Board may call an unscheduled meeting in the event of an emergency. All the members of the Executive Board must be informed of the time and location of such an emergency meeting in a reasonable enough time to arrange to be present. 
+<span class="para" id="b9e39ad"></span>The Chair or Secretary of the Executive Board may call an unscheduled meeting in the event of an emergency. All the members of the Executive Board must be informed of the time and location of such an emergency meeting in a reasonable enough time to arrange to be present. 
 
 <span class="para" id="56b26a9"></span>No meeting may be called in such a manner as to exclude a member of the Executive Board from the meeting. 
 
@@ -103,7 +103,7 @@
 
 **Article 8.** Order of the meeting  
 
-<span class="para" id="4a0f95e"></span>The meeting shall be convened by the Chairperson. 
+<span class="para" id="2f083ad"></span>The meeting shall be convened by the Chair. 
 
 <span class="para" id="8e19958"></span>The agenda of the meeting shall be read out and approved. Any member of the Executive Board may request an addition or modification of the order of the items in the agenda. 
 
@@ -124,9 +124,9 @@
 
 <span class="para" id="e001cbe"></span>Important or Foundational actions require additional consent as set out in the Articles of Association or these Regulations. 
 
-<span class="para" id="d9ec6e4"></span>Meetings shall be chaired by the Chairperson of the Executive Board; in their absence the meeting itself shall appoint its chairperson. 
+<span class="para" id="11a0634"></span>Meetings shall be chaired by the Chair of the Executive Board; in their absence the meeting itself shall appoint its chairperson. 
 
-<span class="para" id="06bf5e9"></span>Minutes of the proceedings of the meeting shall be taken by the secretary or by one of the other persons present. The minutes shall be adopted by a simple majority of votes of the Executive Board and signed by those who have acted as Chairperson and secretary of the meeting. 
+<span class="para" id="ecb45f7"></span>Minutes of the proceedings of the meeting shall be taken by the secretary or by one of the other persons present. The minutes shall be adopted by a simple majority of votes of the Executive Board and signed by those who have acted as Chair and secretary of the meeting. 
 
 <span class="para" id="b4803fa"></span>Every member of the Executive Board is entitled to cast one vote. In so far as these articles of association do not prescribe a larger majority, all Executive Board resolutions shall be adopted by a simple majority of the votes legitimately cast. 
 
@@ -141,9 +141,9 @@
 
 <span class="para" id="688440d"></span>All actions by default are left to the Secretary to be executed or taken; the Executive Board may decide to delegate an action to another member of the Executive Board. 
 
-<span class="para" id="3121cd9"></span>In the event that circumstances change between the formulation of an Action and the time when the Action is to be executed, and the Action needs to be executed in a timely manner, the Chairman and the Secretary shall decide how to proceed, and to report the matter at the next meeting of the Executive Board. 
+<span class="para" id="bbe90b0"></span>In the event that circumstances change between the formulation of an Action and the time when the Action is to be executed, and the Action needs to be executed in a timely manner, the Chair and the Secretary shall decide how to proceed, and to report the matter at the next meeting of the Executive Board. 
 
-<span class="para" id="cf4a9c0"></span>In the event of a minute being found to be ambiguous, the Secretary, in consultation with the Chairman shall decide how the minute is to be interpretted, and their conclusion shall be reported at the next Executive Board meeting. 
+<span class="para" id="a882dbb"></span>In the event of a minute being found to be ambiguous, the Secretary, in consultation with the Chair shall decide how the minute is to be interpretted, and their conclusion shall be reported at the next Executive Board meeting. 
 
 
 <div id="Important and Foundational Actions"></div><div id="Important_and_Foundational_Actions"></div>
@@ -274,7 +274,7 @@
 
 ----
 
-Rendered from ./RakuFoundationRegulations.rakudoc/RakuFoundationRegulations at 09:34 UTC on 2025-09-13
+Rendered from ./RakuFoundationRegulations.rakudoc/RakuFoundationRegulations at 17:40 UTC on 2025-11-17
 
-Source last modified at 09:33 UTC on 2025-09-13
+Source last modified at 17:39 UTC on 2025-11-17
 
