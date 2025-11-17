@@ -38,7 +38,7 @@
 &nbsp;&nbsp;• <span class="para" id="65a2c46"></span>to coordinate with educational institutions to further the Raku Foundation's other objectives,  
 &nbsp;&nbsp;• <span class="para" id="3abe5de"></span>to provide consulting and managerial support concerning Raku Programming Language to individuals and other organisations,  
 &nbsp;&nbsp;• <span class="para" id="ae5d83e"></span>to facilitate and manage projects that develop software written in or supporting Raku Programming Language,  
-&nbsp;&nbsp;• <span class="para" id="7687e39"></span>to encourage other individuals and organisations, including for-profit companies, to undertake projects that create or use software written in whole in part in Raku Programming Language,  
+&nbsp;&nbsp;• <span class="para" id="7c50680"></span>to encourage other individuals and organisations, including for-profit companies, to undertake projects that create or use software written in whole or in part in Raku Programming Language,  
 &nbsp;&nbsp;• <span class="para" id="90b9322"></span>to start or participate in any enterprise to benefit other objects of the Raku Foundation,  
 &nbsp;&nbsp;• to do everything that is directly or indirectly connected with or can be beneficial to the above, all of this in the widest sense of the word.  
 <div id="Finance"></div>
@@ -136,7 +136,7 @@
 
 **Article 15.** Number of members  
 
-<span class="para" id="b95c103"></span>The Executive Board shall consist of an uneven number of members, as defined in the Regulations, provided that the number is no less than three and no more than 19. 
+<span class="para" id="85db83f"></span>The Executive Board shall consist of an uneven number of individuals (members), as defined in the Regulations, provided that the number is no less than three and no more than 19. 
 
 
 **Article 16.** <span class="para" id="895be51"></span>Powers of the Executive Board  
@@ -195,13 +195,13 @@
 
 <span class="para" id="e632acd"></span>At the first meeting of the Executive Board, the members shall elect its officers as defined in the Regulations, but must include 
 
-&nbsp;&nbsp;• a chairman,  
+&nbsp;&nbsp;• a chair,  
 &nbsp;&nbsp;• a secretary,  
 &nbsp;&nbsp;• a treasurer.  
 
 **Article 24.** Powers of Officers  
 
-<span class="para" id="5c598cf"></span>All documents of the Raku Foundation must be signed jointly by the Chairman and Secretary. All documents pertaining to finances shall also be signed by the Treasurer. 
+<span class="para" id="8365877"></span>All documents of the Raku Foundation must be signed jointly by the Chair and Secretary. All documents pertaining to finances shall also be signed by the Treasurer. 
 
 <span class="para" id="92e3770"></span>The Secretary shall be the contact for the Raku Foundation for all matters. 
 
@@ -317,8 +317,6 @@
 &nbsp;&nbsp;• resigns in writing (retires);  
 &nbsp;&nbsp;• loses the right to dispose of their property;  
 &nbsp;&nbsp;• is expelled for failing to abide by the Code of Conduct as set out in the Regulations, following the expulsion process set out in the Regulations.  
-<span class="para" id="9f282ea"></span>In the event of an individual ceasing to be a member, the membership fees are not reimbursed. 
-
 
 **Article 42.** Membership list  
 
@@ -353,7 +351,7 @@
 
 <span class="para" id="1f99d6f"></span>The Regulations shall only be changed, added to or amended as a result of an Important Action. 
 
-<span class="para" id="6e14415"></span>The proposal for such an action may be made by any member of the Raku Foundation 
+<span class="para" id="ee4e133"></span>The proposal for such an action may be made by any member of the Raku Foundation. 
 
 
 <div id="Financial year and annual report and accounts"></div><div id="Financial_year_and_annual_report_and_accounts"></div>
@@ -372,7 +370,7 @@
 
 **Article 48.** Financial reports  
 
-<span class="para" id="7ee98cf"></span>Without prejudice to what is provided otherwise by law, the Executive Board is obliged to prepare and put on paper the balance sheet and the statement of income and expenditure of the Raku Foundation each year within six months after the end of the financial year. In the event that the Raku Foundation maintains one or more enterprises, which, pursuant to the law, have to be listed in the Trade Register of the Chamber of Commerce, the net turnover and profit or loss of each enterprise shall be stated in the statement of income and expenditure. 
+<span class="para" id="7a18c30"></span>Without prejudice to what is provided otherwise by law, the Executive Board is obliged to prepare and put on paper the balance sheet and the statement of income and expenditure of the Raku Foundation each year before the new board is installed. In the event that the Raku Foundation maintains one or more enterprises, which, pursuant to the law, have to be listed in the Trade Register of the Chamber of Commerce, the net turnover and profit or loss of each enterprise shall be stated in the statement of income and expenditure. 
 
 
 **Article 49.** Archiving  
@@ -408,7 +406,7 @@
 
 ----
 
-Rendered from ./articles-of-association.rakudoc/articles-of-association at 09:34 UTC on 2025-09-13
+Rendered from ./articles-of-association.rakudoc/articles-of-association at 17:26 UTC on 2025-11-17
 
-Source last modified at 09:33 UTC on 2025-09-13
+Source last modified at 17:22 UTC on 2025-11-17
 
