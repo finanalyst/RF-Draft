@@ -107,11 +107,11 @@
 
 <span class="para" id="8e19958"></span>The agenda of the meeting shall be read out and approved. Any member of the Executive Board may request an addition or modification of the order of the items in the agenda. 
 
-<span class="para" id="1d404ba"></span>The chairperson change the order of the agenda during the meeting if the discussion so warrants it. 
+<span class="para" id="1d404ba"></span>The chair change the order of the agenda during the meeting if the discussion so warrants it. 
 
 <span class="para" id="0a93871"></span>The minutes of the previous meeting, or a summary of the decisions made, shall be read, and if the minutes are accepted by the Executive Board to be a fair record of the decisions taken in the previous meeting, they are held to be approved. 
 
-<span class="para" id="afb6489"></span>The chairperson should order the meeting so that all items on the agenda are discussed to a reasonable extent. 
+<span class="para" id="afb6489"></span>The chair should order the meeting so that all items on the agenda are discussed to a reasonable extent. 
 
 
 **Article 9.** Quorum  
@@ -124,13 +124,13 @@
 
 <span class="para" id="e001cbe"></span>Important or Foundational actions require additional consent as set out in the Articles of Association or these Regulations. 
 
-<span class="para" id="11a0634"></span>Meetings shall be chaired by the Chair of the Executive Board; in their absence the meeting itself shall appoint its chairperson. 
+<span class="para" id="11a0634"></span>Meetings shall be chaired by the Chair of the Executive Board; in their absence the meeting itself shall appoint its chair. 
 
 <span class="para" id="ecb45f7"></span>Minutes of the proceedings of the meeting shall be taken by the secretary or by one of the other persons present. The minutes shall be adopted by a simple majority of votes of the Executive Board and signed by those who have acted as Chair and secretary of the meeting. 
 
 <span class="para" id="b4803fa"></span>Every member of the Executive Board is entitled to cast one vote. In so far as these articles of association do not prescribe a larger majority, all Executive Board resolutions shall be adopted by a simple majority of the votes legitimately cast. 
 
-<span class="para" id="39c4d58"></span>All votes in meetings shall be cast orally, unless one of the members of the Executive Board requests an anonymised ballot. If the meeting is in person, ballots will be cast. If the meeting is online, the members in the meeting shall change there online designation to 'member', the response to the question of the ballot shall be created in a chat post, but not sent. When the chairperson has ensured everyone prepared a ballot, all members shall send their chat post. The responses will then by anonymised and visible to all members of the meeting. 
+<span class="para" id="39c4d58"></span>All votes in meetings shall be cast orally, unless one of the members of the Executive Board requests an anonymised ballot. If the meeting is in person, ballots will be cast. If the meeting is online, the members in the meeting shall change there online designation to 'member', the response to the question of the ballot shall be created in a chat post, but not sent. When the chair has ensured everyone prepared a ballot, all members shall send their chat post. The responses will then by anonymised and visible to all members of the meeting. 
 
 <span class="para" id="4b6bf40"></span>A blank ballot or a chat post of 'abstain' are permitted. However, since a majority of the members in a meeting are required for a decision to pass, abstaining or a blank ballot is equivalent to a vote against the proposal. 
 
