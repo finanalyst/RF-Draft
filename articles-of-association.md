@@ -406,7 +406,7 @@
 
 ----
 
-Rendered from ./articles-of-association.rakudoc/articles-of-association at 17:26 UTC on 2025-11-17
+Rendered from ./articles-of-association.rakudoc/articles-of-association at 17:52 UTC on 2025-11-17
 
-Source last modified at 17:22 UTC on 2025-11-17
+Source last modified at 17:51 UTC on 2025-11-17
 

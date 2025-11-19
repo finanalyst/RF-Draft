@@ -38,13 +38,13 @@ At least one meeting shall be held each calendar year.
 
 Meetings shall furthermore be held each time the chairman or one of the other board members considers this appropriate.
 
-The meeting shall be convened by the chairperson at least seven days beforehand, by means of notices convening the meeting, with confirmation of receipt, telefax or emails, with confirmation of receipt, to all board members.
+The meeting shall be convened by the chair at least seven days beforehand, by means of notices convening the meeting, with confirmation of receipt, telefax or emails, with confirmation of receipt, to all board members.
 
 The notices convening the meeting shall state place and time of the meeting; it is not obligatory to state the object or the business to be transacted.
 
 So long as all board members in office are present or represented in a board meeting, legitimate resolutions can be adopted on all subjects that come up for discussion.
 
-Meetings shall be chaired by the chairman of the board; in their absence the meeting itself shall appoint its chairperson.
+Meetings shall be chaired by the chairman of the board; in their absence the meeting itself shall appoint its chair.
 
 Minutes of the proceedings of the meeting shall be taken by the secretary or by one of the other persons present.  The minutes shall be adopted by a simple majority of votes of the board and signed by those who have acted as chairman and secretary of the meeting.
 
@@ -57,7 +57,7 @@ Every member of the board is entitled to cast one vote. In so far as these artic
 All votes in meetings shall be cast orally, unless one of the persons holding the right to vote requires vote by ballot. Vote by ballot shall take place by means of unsigned and closed notes.
 Blank notes shall be considered not to have been cast.
 
-Unless the articles of association provide otherwise, the opinion of the chairperson given in the meeting on the outcome of a vote shall be decisive.  In the event that the correctness of the opinion of the chairperson is disputed immediately after this has been given, a new vote shall take place if one person present entitled to vote requires this. By this new vote the legal consequences of the original vote shall become void. If the correctness of the vote is disputed a second time, a new vote will be held, this time by ballot, and the outcome of that cannot be disputed.
+Unless the articles of association provide otherwise, the opinion of the chair given in the meeting on the outcome of a vote shall be decisive.  In the event that the correctness of the opinion of the chairperson is disputed immediately after this has been given, a new vote shall take place if one person present entitled to vote requires this. By this new vote the legal consequences of the original vote shall become void. If the correctness of the vote is disputed a second time, a new vote will be held, this time by ballot, and the outcome of that cannot be disputed.
 
 ## Powers of the board
 ### Article 6
