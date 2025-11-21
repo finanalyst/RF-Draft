@@ -274,7 +274,7 @@
 
 ----
 
-Rendered from ./RakuFoundationRegulations.rakudoc/RakuFoundationRegulations at 17:52 UTC on 2025-11-17
+Rendered from ./RakuFoundationRegulations.rakudoc/RakuFoundationRegulations at 11:09 UTC on 2025-11-21
 
-Source last modified at 17:51 UTC on 2025-11-17
+Source last modified at 18:25 UTC on 2025-11-19
 
