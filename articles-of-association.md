@@ -1,6 +1,24 @@
 
 # Articles of Association
 
+----
+
+## Table of Contents
+
+<a href="#VERSION">VERSION</a>   
+<a href="#Name,_Registration,_and_Business_Language">Name, Registration, and Business Language</a>   
+<a href="#Object">Object</a>   
+<a href="#Finance">Finance</a>   
+<a href="#Governance">Governance</a>   
+<a href="#The_Exec">The Executive Board</a>   
+<a href="#Super">Supervisory Board</a>   
+<a href="#The_Mem">The Raku Community</a>   
+<a href="#Change_of,_Addition_to,_or_Amendment_of_The_Articles_of_Association">Change of, Addition to, or Amendment of The Articles of Association</a>   
+<a href="#Change_of,_Addition_to,_or_Amendment_of_Regulations">Change of, Addition to, or Amendment of Regulations</a>   
+<a href="#Financial_year_and_annual_report_and_accounts">Financial year and annual report and accounts</a>   
+<a href="#Dissolution_and_Liquidation">Dissolution and Liquidation</a>   
+
+
 
 <div id="VERSION&nbsp;&nbsp;&nbsp;&nbsp;v0.1.3"></div><div id="VERSION"></div>
 
@@ -307,7 +325,7 @@
 
 **Article 39.** Becoming a member  
 
-<span class="para" id="89efece"></span>|An individual fulfilling the qualifications for a category of membership, as set out in the Regulations, shall apply to the Secretary of the Executive Board. Membership starts from the date the Secretary recieves the application, provided the individual fulfills the qualifications for the category of membership. 
+<span class="para" id="d19c0b1"></span>An individual fulfilling the qualifications for a category of membership, as set out in the Regulations, shall apply to the Secretary of the Executive Board. Membership starts from the date the Secretary receives the application, provided the individual fulfills the qualifications for the category of membership. 
 
 
 **Article 40.** Membership fees  
@@ -429,7 +447,7 @@
 
 ----
 
-Rendered from ./articles-of-association.rakudoc/articles-of-association at 11:09 UTC on 2025-11-21
+Rendered from ./articles-of-association.rakudoc/articles-of-association at 19:55 UTC on 2025-11-26
 
-Source last modified at 11:05 UTC on 2025-11-21
+Source last modified at 19:54 UTC on 2025-11-26
 
