@@ -192,14 +192,14 @@
 
 &nbsp;&nbsp;• <span class="para" id="3bf148b"></span>The Executive Board shall draw up a list of the current membership with the right to vote; and shall determine the deadline for the ballots to be received, which should be a working day in town of the Head Office, on or close to the 21st of March.  
 &nbsp;&nbsp;• <span class="para" id="7412ba6"></span>A communication shall be sent as defined by the Regulations to all the members of the Raku Community no later than the last working day in town of the Head Office before the 21st of January requesting each member to become a Candidate for election to the Executive Board. No nomination process or qualification is needed, other than a willingness to serve as a member of the Executive Board for a year.  
-&nbsp;&nbsp;• <span class="para" id="235da2f"></span>A communication shall be sent as defined by the Regulations to all the members of the Raku Community no later than the last working day before 21st February, informing the membership of the upcoming election, the method of the election, the deadline for the receipt of ballots, and a list of the Candidates for election to the Raku Community.  
+&nbsp;&nbsp;• <span class="para" id="260e550"></span>A communication shall be sent as defined by the Regulations to all the members of the Raku Community no later than the last working day before 21st February, informing the membership of the upcoming election, the method of the election, the deadline for the receipt of ballots, and a list of the Candidates for election to the Executive Board.  
 &nbsp;&nbsp;• <span class="para" id="ab78371"></span>Each member of the Raku Community is encouraged to send in a ballot using the process described in the Regulations.  
 &nbsp;&nbsp;• <span class="para" id="c49479e"></span>At the close of business in town of the Head Office on the day of the deadline, the votes shall be counted as defined below, and the Candidates receiving the most votes, as defined below, shall be considered the members of the Executive Board, starting from 21 April.  
 &nbsp;&nbsp;• <span class="para" id="69f398f"></span>The members of the Executive Board shall serve from 21 April in one year to 20 April in the next year.  
 
 **Article 21.** Counting of votes  
 
-<span class="para" id="0dc9aa0"></span>All of the ballots from members received on or before the day of the deadline shall checked for valid votes as follows: 
+<span class="para" id="5983ccd"></span>All of the ballots from members received on or before the day of the deadline shall be checked for valid as follows: 
 
 &nbsp;&nbsp;• <span class="para" id="e493ab8"></span>Each ballot sent in by a member shall consist of the number of names selected from the list of Candidates as the Regulations specify for the number of Executive Board members.  
 &nbsp;&nbsp;• In the event of a duplicated Candidate name, only one shall be considered valid, and the duplicates shall be invalidated.  
@@ -427,7 +427,7 @@
 
 **Article 53.**   
 
-<span class="para" id="c2013db"></span>The Raku Foundation shall only be dissolved as the result of a Foundational Action 
+<span class="para" id="1b3c5cf"></span>The Raku Foundation shall only be dissolved as the result of a Foundational Action. 
 
 <span class="para" id="98f3fcc"></span>After its dissolution the Raku Foundation shall continue to exist in so far as is necessary for the liquidation of its assets. 
 
@@ -447,7 +447,7 @@
 
 ----
 
-Rendered from ./articles-of-association.rakudoc/articles-of-association at 19:55 UTC on 2025-11-26
+Rendered from ./articles-of-association.rakudoc/articles-of-association at 08:42 UTC on 2026-03-12
 
-Source last modified at 19:54 UTC on 2025-11-26
+Source last modified at 08:40 UTC on 2026-03-12
 
