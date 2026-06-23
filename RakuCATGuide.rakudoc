@@ -1,14 +1,14 @@
-=begin rakudoc :!toc :!index
+=begin rakudoc
 =TITLE Community Affairs Incident Response Guide
 =for AUTHORS :hidden
 Elizabeth Mattijsen
 Richard Hainsworth
 William Coleda
 
-=VERSION v 0.1.1
+=VERSION v 0.2.0
 
-=config numitem :prefix<Article> :continued
-=config numitem2 :prefix<Article> :continued
+=config numhead :form<Article %N. %D> :continued
+=config numhead2 :form<Article %N.%N. %D> :continued
 =alias RP Raku Programming Language
 =alias FDN Raku Foundation
 =alias Exec Executive Board
@@ -18,28 +18,28 @@ William Coleda
 =alias CoC Raku Code of Conduct
 =alias HQ The head office
 
-=numitem Preface
+=numhead Preface
 
 This document describes the A<CoC> enforcement procedures in general terms but is not intended to be binding or to create any rights; in all cases, ensuring that the Raku community is welcoming, inclusive, safe, and enjoyable for all ("-Ofun") should take priority over strictly following the procedures described below.
 
 This guide is not legal advice.
 
 
-=numitem A<CAT> organisation
+=numhead A<CAT> organisation
 
 The A<CoC> is enforced by the A<CAT>.  To be able to promptly respond to A<CoC> incidents, the A<CAT> should:
 =item Exchange contact information, including contact methods that allow them to be reached in more urgent situations (e.g., phone numbers).
 =item Ensure that each A<CAT> member has the credentials needed to post announcements on behalf of the A<CAT> when the group has decided on a response.
 =item Ensure that, to the extent possible, each A<CAT> member can access the credentials needed to ban someone from any Raku space and/or remove media from that space (probably via a password manager or other credential-management software).
 =item For cases where it is not practicable for all A<CAT> members to have the necessary credentials, the A<CAT> should clearly document the process for banning someone/removing media (e.g., who to contact).
-=numitem Process
+=numhead Process
 
 When the A<CAT> receives a report of a A<CoC> violation, any members who are the subject of the report or who have an actual or apparent conflict of interest shall immediately be recused and will neither participate in further actions nor access information about the report or the A<CAT>'s response.
 
 Barring extraordinary circumstances, the A<CAT> will act on all reports within 72 hours of first receiving the report.  Due to the importance of promptly responding to reports, the A<CAT> may act via either synchronous meetings or via asynchronous discussion/voting (e.g., over email). The A<CAT> should attempt to act by consensus but, when consensus cannot be reached, it may act by simple majority vote.
 
 To enable prompt responses, A<CAT> members should strive to be generally responsive or to communicate that they are unavailable to respond to a particular incident and are therefore abstaining.  If a A<CAT> member does not respond to the discussion of an incident within 48 hours, they can be treated as abstaining from any vote on that incident.  If a vote occurs after some discussion, A<CAT> members may set a reasonable deadline after which non-responses will be treated as abstentions from that vote.
-=numitem2 Investigating an Incident
+=numhead2 Investigating an Incident
 
 In some cases (especially those involving in-person conduct), the A<CAT> may investigate the incident, such as by having one or more members speak with the reporter, the alleged violator, or others present at the incident.  In other cases (especially those where a violation was recorded, such as in an IRC log or recorded conference presentation), no such investigation will be necessary.
 
@@ -51,12 +51,12 @@ Additionally, the A<CAT> should remember that the violator's intent (which may b
 
 If its investigations into an incident reveal other A<CoC> violations that were not reported (e.g., an IRC argument in which multiple people engaged in personal attacks but only one was reported), the A<CAT> should also evaluate those violations and take appropriate actions.
 
-=numitem Responding to an Incident
+=numhead Responding to an Incident
 
 After reviewing an incident, the A<CAT> should determine what action to take in response.  When making this determination, the A<CAT> should consult records of previous violations, both to see whether the violator has a history of poor behavior and to ensure that similar violations receive proportional responses.
 
 Because A<CoC> violations by members of the Raku Steering Council and others in positions of trust or authority within the Raku community are especially harmful, these individuals are appropriately held to an even higher standard than other community members.  The A<CAT> should consider this higher standard when deciding what action to take when someone in that group has violated the A<CoC>.
-=numitem2 Allowed Responses
+=numhead2 Allowed Responses
 
 The A<CAT> can respond to reports with any of the following actions or with any other action it deems appropriate:
 =item Determining that the conduct did not violate the A<CoC> or that no action is needed.
@@ -65,16 +65,18 @@ The A<CAT> can respond to reports with any of the following actions or with any 
 =item Editing or redacting media (such as the video of a conference talk) that contains the violation.
 =item Removing media that contains the violation.
 =item Officially warning the violator.
-=item Temporarily banning the violator from one or more Raku community spaces.
+=item Temporarily banning the violator from one or more Raku community spaces for upto 30 days.
 =item Publicly reprimanding the violator.
-=item Permanently banning the violator from one or more Raku community spaces.
-=item Recommending that the Raku Steering Council eject the violator from the Raku core team.
-=item Recommending that the Raku Steering Council eject the violator from the Raku core team and permanently banning them from the Raku community.
+=item Recommending to the A<Exec> of the A<FDN> to temporarily ban the violator from one or more Raku community spaces.
+=item Recommending to the A<Exec> of the A<FDN> to permanently ban the violator from one or more Raku community spaces.
+=item Recommending to the A<Exec> of the A<FDN> to  eject the violator from the Raku community.
+=item If the violator is a member of the A<Exec>, recommending to the A<Super> to suspend the violator from the A<Exec>.
+=item If the violated is a member of the A<Super>, recommending to the A<Super> to dismiss the violator from the A<Super>.
 
 Time is sometimes of the essence when responding to a A<CoC> incident. Accordingly, without prior input from other A<CAT> members, any member of the A<CAT> may impose a ban of up to 48 hours and/or temporarily remove or edit media that appears to violate the A<CoC>.  If a A<CAT> member takes action in this way, the rest of the A<CAT> should discuss the incident
 (including the possibility of an additional response) and participate in drafting the summary of the incident (see L<After Taking Action|#After_Taking_Action>, below).
 
-=numitem2 Disallowed Responses
+=numhead2 Disallowed Responses
 
 While the A<CAT> can take appropriate actions other than those listed above, it should:
 
@@ -83,23 +85,23 @@ While the A<CAT> can take appropriate actions other than those listed above, it 
 =item I<B<NOT>> require the violator to avoid the target (this is logistically unworkable without unfairly burdening the target's privacy and invites future conflict).
 =item I<B<NOT>> assign someone to "chaperone" or otherwise supervise the violator (this is unfair and logistically unworkable; if the A<CAT> is concerned enough about future violations to consider this response, it should ban the violator instead).
 
-=numitem2 Mediation
+=numhead2 Mediation
 
 The A<CAT> should not require mediation, nor should it recommend mediation as an action it takes in response to a A<CoC> violation.  This is because violating the A<CoC> is an action that harms the entire Raku community; reframing the A<CoC> violation as an interpersonal conflict is inappropriate and suggests that the target of the violation is partly or equally responsible for the violation.  This is incorrect: it is perfectly possible for two people to dislike each other without either violating the A<CoC>.
 
-=numitem Continued violation
+=numhead Continued violation
 
 It is equally the case that continued interpersonal conflict or animosity could lead to future A<CoC> violations and, even if it doesn't, makes the Raku community less -Ofun.  Thus, if the A<CAT> identifies an underlying interpersonal conflict or cross-cultural misunderstanding, it can be appropriate for the A<CAT> to offer mediation I<B<after and separate from>> its resolution of the violation.  If the A<CAT> offers mediation, it should state clearly that mediation is not required and is not a response that the A<CAT> is taking based on the A<CoC> violation but rather is a service the A<CAT> is offering to help resolve an underlying interpersonal or cross-cultural issue.  Mediation should I<B<never>> be offered if the violation is extremely serious (e.g., harassment).
 
-=numitem Reports after action
+=numhead Reports after action
 
 In all cases, the A<CAT> will inform the reporter how the report was resolved and may inform others who witnessed the incident.  When deciding whom to inform, the A<CAT> should keep in mind that, if a bystander is not informed that action was taken based on a A<CoC> violation, they may conclude that the Raku community permits behavior of the sort they witnessed.
 
-=numitem Archiving
+=numhead Archiving
 
 The A<CAT> will preserve records of the incident including, at a minimum, the initial report and a record of any action that was taken (including informal conversations with the violator).  The A<CAT> will ensure that these records are accessible to the A<CAT> when addressing future reports but are not accessible to non-members.
 
-=numitem Summary
+=numhead Summary
 
 At least annually, the A<CAT> will publish a summary of all reported incidents and any actions taken in response to those incidents; it may publish reports (either of multiple actions or a single action) more frequently based on their number or severity.  Except in cases where naming the violator is essential to the action (e.g., a public reprimand), the A<CAT> will endeavor not to name violators and will not name reporters.  However, the nature of an incident may make the identity of one or both parties obvious (for example, if the incident occurred in a publicly logged IRC channel).
 
@@ -114,7 +116,7 @@ The following incident description from the L<Conference in the Cloud 2020 SoC T
 =nested The A<CAT> talked with the speaker, explaining the issue and the consequences.
 =nested The speaker was given a final warning.
 
-=numitem Feedback and community response
+=numhead Feedback and community response
 
 Whenever the A<CAT> publishes a summary of any incidents or otherwise communicates publicly, it shall establish an appropriate venue for discussion (e.g., a GitHub issue) and shall request that all discussion about the incidents be limited to that venue or sent directly to the A<CAT> via email.  It shall also state that discussion of the incident or debate about the appropriate response to it is off topic in all other Raku spaces and may itself be a A<CoC> violation.
 
